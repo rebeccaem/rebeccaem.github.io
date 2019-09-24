@@ -2,7 +2,7 @@
 layout: default
 title: About
 ---
-# About page
+## About me
 
 <h3> Education </h3>
 <ul>
