@@ -66,7 +66,7 @@ title: Presentations
   for Computational and Experimental Research in Mathematics); Providence, RI;
   October 2012.</li>
 
-  <li> "An Introduction for \textit{The Theory That Would Not Die}. Babuska
+  <li> "An Introduction for <i>The Theory That Would Not Die</i>. Babuska
   Forum Seminar Series, ICES, The University of Texas at Austin; Austin, TX;
   September 2012.</li>
 
