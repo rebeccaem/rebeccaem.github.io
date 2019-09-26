@@ -19,9 +19,6 @@ title: Presentations
   physics-constrained, data-driven stochastic operators" World Congress on
   Computational Mechanics. New York City, NY; July 2018.</li>
 
-  <li>Learning sparse non-Gaussian graphical models from data'' SIAM Conference on
-  Uncertainty Quantification. Garden Grove, CA; April 2018.</li>
-
   <li> "Learning sparse non-Gaussian graphical models from data" SIAM
   Conference on Uncertainty Quantification. Garden Grove, CA; April 2018.</li>
 
