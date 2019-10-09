@@ -6,7 +6,7 @@ title: Publications
 <ol reversed>
 <li> R. E. Morrison, R. Baptista, Y. Marzouk. Learning non-Gaussian probabilistic graphical models. <i>In preparation.</i></li>
 <li> R. E. Morrison. Representing model inadequacy: A case study of the generalized Lotka-Volterra equations. <i>In preparation.</i></li>
-<li> R. E. Morrison. Exact model reduction of the generalized Lotka-Volterra equations. <i>Submitted.</i></li>
+<li> R. E. Morrison. Exact model reduction of the generalized Lotka-Volterra equations. <i>In Review.</i></li>
 <li> R. E. Morrison, T. A. Oliver, R. D. Moser. Representing model inadequacy:
 A stochastic operator approach. <i>SIAM Journal of Uncertainty Quantification</i> 6
 (2), 457-496 (2018).</li> <!-- Arxiv: *arxiv.org/abs/1604.01651v3* -->
