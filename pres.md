@@ -4,6 +4,10 @@ title: Presentations
 ---
 ## Presentations
 <ul>
+
+ <li> "Representing model error in reduced models of interacting
+ systems" APPM Seminar. CU Boulder; September 2019.</li>
+
  <li> "Representing model inadequacy in reduced models of interacting
  systems" SIAM Conference on Dynamical Systems. Snowbird, UT; May 2019.</li>
 
