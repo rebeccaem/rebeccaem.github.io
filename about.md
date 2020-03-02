@@ -11,4 +11,4 @@ title: About
    <li>Scripps College, BA in Physics, May 2008</li>
 </ul>
 
-Please email me for a full CV.
+<h3> <a href="cv.pdf">Curriculum Vita</a> </h3>
