@@ -37,7 +37,7 @@ title: Presentations
       models" CS Department Seminar, CU Boulder. Boulder, CO; April 2017.</li>
 
   <li> "Learning sparse probabilistic graphical models in the non-Gaussian setting'' SIAM Conference on
-  Computational Science \& Engineering. Atlanta, GA; March 2017.</li>
+  Computational Science & Engineering. Atlanta, GA; March 2017.</li>
 
   <li> "Representing model error in reduced combustion mechanisms: A stochastic operator
       approach"
