@@ -2,7 +2,7 @@
 layout: default
 title: Publications
 ---
-### In preparation
+### In Preparation
 <ul>
 <li> R. Baptista, R. E. Morrison, O. Zahm, Y. Marzouk. <i>Learning non-Gaussian probabilistic graphical models.</i></li>
 <li> R. E. Morrison. <i>Exact model reduction of the generalized Lotka-Volterra equations. </i> <a href="https://arxiv.org/abs/1909.13837">arXiv</a> </li>
