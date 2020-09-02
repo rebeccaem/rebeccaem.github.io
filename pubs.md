@@ -5,8 +5,8 @@ title: Publications
 ### In preparation
 <ul>
 <li> R. Baptista, R. E. Morrison, O. Zahm, Y. Marzouk. <i>Learning non-Gaussian probabilistic graphical models.</i></li>
-<li> R. E. Morrison. <i>Exact model reduction of the generalized Lotka-Volterra equations. </i> <a href="https://arxiv.org/abs/1909.13837">arXiv</a> </li>
-<li> R. E. Morrison. <i>Embedded discrepancy operators in reduced models of interacting species.</i> <a href="https://arxiv.org/abs/1910.08191">arXiv</a> </li>
+<li> R. E. Morrison. <i>Exact and approximate model reduction of the generalized Lotka-Volterra equations. </i> <a href="https://arxiv.org/abs/1909.13837">arXiv</a> </li>
+<li> R. E. Morrison. <i>Model error and enrichment in reduced interacting systems.</i> <a href="https://arxiv.org/abs/1910.08191">arXiv</a> </li>
 </ul>
 ### Publications and reports
 <ul> <!-- <ol reversed> </ol> -->
@@ -22,9 +22,7 @@ probabilistic models in the non-Gaussian setting. </i>NeurIPS (2017).</li>
 partition methodology for validation of predictive models. </i>Computers and
 Mathematics with Applications 66 (10), 2114-2125 (2013).</li>
 <li> R. E. Morrison, C. M. Bryant, G. Terejanu, K. Miki, S. Prudhomme.
-<i>Optimal data split methodology for model validation.</i> In proceedings of and
-presented at the World Congress on Engineering and Computer Science. UC
-Berkeley, October 2011.</li>
+<i>Optimal data split methodology for model validation.</i> Proceedings of the World Congress on Engineering and Computer Science 2011.</li>
 <li> R. E. Morrison, A. S. Landsberg, E. J. Friedman. <i>Combinatorial games with
 a pass: A geometric approach. </i>Chaos 21, 043108 (2011).</li>
 </ul>
