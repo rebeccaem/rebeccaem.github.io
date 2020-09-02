@@ -4,8 +4,8 @@ title: Presentations
 ---
 ## Presentations
 <ul>
-<li>"<a
-href="https://www.youtube.com/watch?v=38eCan3Ullg&list=PL6AeXx75lHyyqKgfRmlSM4QUEna0dWDza&index=6&t=3s">"Representing
+<li><a
+href="https://www.youtube.com/watch?v=38eCan3Ullg&list=PL6AeXx75lHyyqKgfRmlSM4QUEna0dWDza&index=6">"Representing
 model error in SEIR-type models: A case study of the 2016 Zika outbreak in
 Brazil"</a> Computing Research Association 2020 Virtual Conference Lightning
 Talk</li>
