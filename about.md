@@ -11,4 +11,4 @@ title: About
    <li>Scripps College, BA in Physics, May 2008</li>
 </ul>
 
-<h3> <a href="cv.pdf">Curriculum Vita</a> </h3>
+<h3> <a href="cv-public.pdf">Curriculum Vita</a> </h3>

@@ -4,6 +4,15 @@ title: Presentations
 ---
 ## Presentations
 <ul>
+<li>"Learning sparse representations of model error in coupled
+differential equations" (Keynote) Interdisciplinary Workshop on Uncertainties
+in Data Analysis, Potsdam Institute for Climate Impact Research (PIK), 1
+October 2020</li>
+
+<li> "Learning sparse dynamics of interacting systems" Second Symposium on
+Machine Learning and Dynamical Systems, Fields Institute, 29 September
+2020</li>
+
 <li><a
 href="https://www.youtube.com/watch?v=38eCan3Ullg&list=PL6AeXx75lHyyqKgfRmlSM4QUEna0dWDza&index=6">"Representing
 model error in SEIR-type models: A case study of the 2016 Zika outbreak in
