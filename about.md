@@ -2,8 +2,6 @@
 layout: default
 title: About
 ---
-## About Me
-
 <h3> Education </h3>
 <ul>
    <li>Massachusetts Institute of Technology, Postdoc in Dept. of Aeronautics and Astronautics, February 2016 - July 2018</li>
