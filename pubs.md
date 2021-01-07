@@ -5,11 +5,11 @@ title: Publications
 ### In preparation
 <ul>
 <li> R. Baptista, R. E. Morrison, O. Zahm, Y. Marzouk. <i>Learning non-Gaussian probabilistic graphical models.</i></li>
-<li> R. E. Morrison. <i>Exact and approximate model reduction of the generalized Lotka-Volterra equations. </i> <a href="https://arxiv.org/abs/1909.13837">arXiv</a> </li>
-<li> R. E. Morrison. <i>Model error and enrichment in reduced interacting systems.</i> <a href="https://arxiv.org/abs/1910.08191">arXiv</a> </li>
+<li> R. E. Morrison. <i>Exact dimension reduction of the generalized Lotka-Volterra equations. </i> <a href="https://arxiv.org/abs/1909.13837">arXiv</a> </li>
 </ul>
 ### Publications
 <ul> <!-- <ol reversed> </ol> -->
+<li> R. E. Morrison. <i>Data-driven corrections of partial Lotka-Volterra models.</i> Entropy 2020 (22)11, 13113. </li>
 <li> R. E. Morrison, A. Cunha, Jr. <i>Embedded discrepancy operators: A case study in Zika modeling.</i> Chaos, 30 (5): 051103 (2020).</li>
 <li> R. E. Morrison, T. A. Oliver, R. D. Moser. <i>Representing model inadequacy:
 A stochastic operator approach. </i>SIAM Journal of Uncertainty Quantification 6

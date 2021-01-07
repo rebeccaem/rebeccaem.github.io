@@ -4,8 +4,9 @@ title: Other
 ---
 ### In the news
 <ul>
-<li> <a href="https://www.westword.com/news/covid-19-most-virus-models-are-wrong-colorado-expert-says-11709422">Covid-19: Why most virus models are wrong</a> Westword, May 12, 2020.</li>
-<li> <a href="https://www.colorado.edu/today/2020/05/05/scientists-develop-tool-improve-disease-model-accuracy">Scientists develop tool to improve disease model accuracy</a> CU Boulder Today, May 5, 2020.</li>
+<li> <a href="https://www.scientificamerican.com/article/covid-models-show-how-to-avoid-future-lockdowns/">Covid models show how to avoid future lockdowns</a> Scientific American, 11/24/20. </li>
+<li> <a href="https://www.westword.com/news/covid-19-most-virus-models-are-wrong-colorado-expert-says-11709422">Covid-19: Why most virus models are wrong</a> Westword, 05/12/20.</li>
+<li> <a href="https://www.colorado.edu/today/2020/05/05/scientists-develop-tool-improve-disease-model-accuracy">Scientists develop tool to improve disease model accuracy</a> CU Boulder Today, 05/05/20.</li>
 </ul>
 ### Workshops
 <ul>
