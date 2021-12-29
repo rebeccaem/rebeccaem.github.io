@@ -9,9 +9,12 @@ title: Other
 <li> <a href="https://www.westword.com/news/covid-19-most-virus-models-are-wrong-colorado-expert-says-11709422">Covid-19: Why most virus models are wrong</a> Westword, 05/12/20</li>
 <li> <a href="https://www.colorado.edu/today/2020/05/05/scientists-develop-tool-improve-disease-model-accuracy">Scientists develop tool to improve disease model accuracy</a> CU Boulder Today, 05/05/20</li>
 </ul>
+<!--
 ### Workshops
 <ul>
 
+<li> Space Weather with Quantified Uncertainties Fall Meeting. MIT (virtual), October 18-19, 2021.</li>
+<li> USNCCM mini </li>
 <li> Computing Research Association (CRA) 2020 Career Mentoring Workshop.
 Washington DC, February 2020.</li>
 <li> Rocky Mountain Celebration of Women in Computing. Denver, CO, November 2018.</li>
@@ -47,4 +50,4 @@ MN, June 2011.</li>
 Systems. The University of Southern California, Los Angeles, CA, March
 2011.</li>
 
-</ul>
+</ul> -->

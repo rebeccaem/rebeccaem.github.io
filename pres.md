@@ -4,7 +4,10 @@ title: Presentations
 ---
 ### Presentations
 <ul>
-<li>"Learning sparse non-Gaussian graphical models" CMX Seminar, Caltech, 12/20</li>
+<li> Rio de Janeiro </li>
+<li> EMI </li>
+<li> USACM </li>
+<li>"Learning sparse non-Gaussian graphical models" CMX Seminar, Caltech, 12/9/20</li>
 
 <li>"Learning sparse representations of model error in coupled
 differential equations" (Keynote) Interdisciplinary Workshop on Uncertainties
