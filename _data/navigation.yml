@@ -4,7 +4,7 @@
   link: /about.html
 - name: Publications
   link: /pubs.html
-- name: Presentations
-  link: /pres.html
+    #- name: Presentations
+    #link: /pres.html
 - name: Other 
   link: /other.html
