@@ -4,7 +4,7 @@ title: Publications
 ---
 <ol reversed> <!-- <ol reversed> </ol> -->
 <li> R. Baptista, R. E. Morrison, Y. Marzouk, O. Zahm. <i>Learning non-Gaussian graphical models via Hessian scores and triangular transport. </i><a href="https://arxiv.org/abs/2101.03093">arXiv</a></li>
-<li> R. E. Morrison, R. Baptista, E. Basor. <i>Diagonal nonlinear transformations preserve structure in covariance and precision matrices. </i>Journal of Multivariate Analysis p104983 (2022).</li>
+<li> R. E. Morrison, R. Baptista, E. Basor. <i>Diagonal nonlinear transformations preserve structure in covariance and precision matrices. </i>Journal of Multivariate Analysis, 104983 (2022).</li>
 <li> M. Tosin, E. Dantas, A. Cunha, R. E. Morrison. <i>ARBO: Arbovirus Modeling and Uncertainty Quantification Toolbox.</i> Software Impacts 12, 100252 (2022).</li>
 <li> R. E. Morrison. <i>Exact reduction of the generalized Lotka-Volterra equations via integral and algebraic substitutions. </i> Computation 2021, 9(5), 49
 <li> R. E. Morrison. <i>Data-driven corrections of partial Lotka-Volterra models.</i> Entropy 2020, (22)11, 13113. </li>
