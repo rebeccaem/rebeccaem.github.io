@@ -10,4 +10,4 @@ title: About
    <li>Scripps College, BA in Physics, 5/08</li>
 </ul>
 
-<h3> <a href="cv-public.pdf">Curriculum Vita</a> </h3>
+<h3> <a href="vita.pdf">Curriculum Vita</a> </h3>
