@@ -9,5 +9,3 @@ title: About
    <li>The University of Texas at Austin, MS in Computational and Applied Mathematics, 5/12</li>
    <li>Scripps College, BA in Physics, 5/08</li>
 </ul>
-
-<h3> <a href="vita.pdf">Curriculum Vita</a> </h3>
