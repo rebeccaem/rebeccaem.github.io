@@ -7,7 +7,7 @@ layout: home
 ECOT 820  
 Dept. of Computer Science  
 University of Colorado Boulder  
-rebeccam AT colorado DOT edu
+rebeccam@colorado.edu
 
 ## Research interests
 Probabilistic graphical models  
