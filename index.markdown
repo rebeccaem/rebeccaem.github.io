@@ -6,7 +6,8 @@ layout: home
 ---
 ECOT 820  
 Dept. of Computer Science  
-University of Colorado Boulder  
+University of Colorado Boulder 
+rebeccam AT colorado DOT edu
 
 ## Research interests
 Probabilistic graphical models  
@@ -25,6 +26,6 @@ CSCI 4802/5802: Data Science Team
 CSCI 5646: Numerical Linear Algebra  
 CSCI 5822: Probabilistic Modeling of Human and Machine Intelligence  
 CSCI 4802/7000: Graduate Writing Workshop  
-CSCI 7000: Validation and Uncertainty Quantification for Computational Models
+CSCI 7000: Validation and Uncertainty Quantification for Computational Models  
 UPSCALE Reading & Research Group (Uncertainty, Probability, Scientific Computing And LEarning)
 
