@@ -4,9 +4,9 @@
 
 layout: home
 ---
-ECOT 820  
 Dept. of Computer Science  
 University of Colorado Boulder  
+ECOT 820  
 rebeccam@colorado.edu
 
 ## Research interests
@@ -14,7 +14,7 @@ Probabilistic graphical models
 Dynamical systems  
 Calibration, validation, and uncertainty quantification  
 
-## Reseach group  
+## Research group  
 Rileigh Bandy (CS PhD)  
 Sam Kwon (Applied Math MS)  
 Noah Peterson (CS PhD)  
