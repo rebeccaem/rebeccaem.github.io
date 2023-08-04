@@ -11,4 +11,5 @@ BA, Physics, Scripps College, 2008
 
 [Curriculum vita](vita.pdf) 
 
-![Rebecca and Max at Blue Cloud Farm, July 2022](R-and-M-barn.jpeg)
+<img src="R-and-M-barn.jpeg" width="500">
+Rebecca & Max at Blue Cloud Farms, July 2022
