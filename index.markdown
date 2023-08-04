@@ -6,7 +6,7 @@ layout: home
 ---
 ECOT 820  
 Dept. of Computer Science  
-University of Colorado Boulder 
+University of Colorado Boulder  
 rebeccam AT colorado DOT edu
 
 ## Research interests
