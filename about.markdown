@@ -18,5 +18,5 @@ BA, Physics, Scripps College, 2008
 [Scientists develop tool to improve disease model accuracy](https://www.colorado.edu/today/2020/05/05/scientists-develop-tool-improve-disease-model-accuracy) CU Boulder Today, 05/05/20  
 
 ## At the barn
-![Rebecca & Max at Blue Cloud Farms, July 2022](R-and-M-barn.jpeg)
+![Rebecca & Max at Blue Cloud Farms, July 2022](R-and-M-barn.jpeg){width=100px}
 Rebecca & Max at Blue Cloud Farms, July 2022
