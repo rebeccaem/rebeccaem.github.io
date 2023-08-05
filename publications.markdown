@@ -29,7 +29,7 @@ permalink: /publications/
 1. R. E. Morrison, C. M. Bryant, G. Terejanu, S. Prudhomme, K. Miki. Data partition methodology for validation of predictive models. 
       *Computers and Mathematics with Applications*, 66 (10), 2114-2125 (2013)  
 1. R. E. Morrison, A. S. Landsberg, E. J. Friedman. Combinatorial games
-        with a pass: A geometric approach. *Chaos: An Interdisciplinary Journal of Nonlinear Science}*  21, 043108 (2011)
+        with a pass: A geometric approach. *Chaos: An Interdisciplinary Journal of Nonlinear Science*  21, 043108 (2011)
 
 ### Peer-Reviewed Conference Papers
 1. T. Price-Broncucia, R. Morrison. Ultra-short time batching and unscented Kalman inversion for
@@ -37,15 +37,15 @@ permalink: /publications/
     Mechanics 2023*, Albuquerque, NM. **Invited to submit for student paper competition (1 of 12 slots)**  
 1. T. Price-Broncucia, R. Morrison. Multi-time unscented Kalman inversion for calibration
     of expensive chaotic models. *14th International Conference on Applications of Statistics and
-    Probability in Civil Engineering 2023}*, Dublin, Ireland. **2023 CERRA Student Recognition Award**
-1. R. Bandy, R.~Morrison. Quantifying model form uncertainty in spring-mass-damper systems.
+    Probability in Civil Engineering 2023*, Dublin, Ireland. **2023 CERRA Student Recognition Award**
+1. R. Bandy, R. Morrison. Quantifying model form uncertainty in spring-mass-damper systems.
     *Proceedings of IMAC-XLI Conference and Exposition 2023*, Austin, TX. **Best Paper Award**
 1. R. E. Morrison, R. Baptista, Y. Marzouk. Beyond normality: Learning sparse probabilistic models in the non-Gaussian setting.
-  *Advances in Neural Information Processing Systems 30 (NuerIPS 2017)*, 11 pages (Acceptance rate: 21\%)
+  *Advances in Neural Information Processing Systems 30 (NuerIPS 2017)*, 11 pages (Acceptance rate: 21%)
 1. R. E. Morrison, C. M. Bryant, G. Terejanu, K. Miki, S. Prudhomme.
         Optimal data split methodology for model validation. *Proceedings of
-      the World Congress on Engineering and Computer Science 2011*, p1038-1043. **Best Student
-      Paper Award** (Acceptance rate: 53\%)
+      the World Congress on Engineering and Computer Science 2011*, p1038-1043 (Acceptance rate: 53%) **Best Student
+      Paper Award**
 
 ### Theses
 - PhD Dissertation: *On the representation of model inadequacy: A stochastic operator approach*, 
