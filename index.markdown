@@ -4,6 +4,7 @@
 
 layout: home
 ---
+Assistant Professor  
 Dept. of Computer Science  
 University of Colorado Boulder  
 ECOT 820  
