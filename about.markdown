@@ -9,7 +9,7 @@ PhD, Computational Science, Engineering, & Mathematics, UT Austin, 2016
 MS, Computational & Applied Math, UT Austin, 2012  
 BA, Physics, Scripps College, 2008  
 
-[Curriculum vita](vita.pdf) 
+## [Curriculum vita](vita.pdf) 
 
 ## In the news
 [Interview with Jessie Finocchiaro](http://bouldercsgrads.org/neural-network/rebecca_morrison_nn.pdf) CU Boulder CS Neural Network, 4/23/21  
