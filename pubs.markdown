@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+permalink: /pubs/
+---
+
 ### Journal Articles
 1. R.Bandy, R. Morrison. Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions. 
 (In revision) *Chaos: An Interdisciplinary Journal of Nonlinear Science.*   
