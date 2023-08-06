@@ -6,13 +6,13 @@ permalink: /publications/
 
 ### Journal Articles
 1. R. Bandy, R. Morrison. Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions. 
-(In revision) *Chaos: An Interdisciplinary Journal of Nonlinear Science*   
+(In revision)     
 1. R. Baptista, R. E. Morrison, O. Zahm, Y. Marzouk. Learning non-Gaussian graphical
-    models via Hessian scores and triangular transport. (In revision) *Journal of Machine Learning Research*
+    models via Hessian scores and triangular transport. (In revision) 
    [arXiv](arxiv.org/abs/2101.03093)
 1. P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and
     Changes-of-Variables.
-    (In review) *Inverse Problems*
+    (In review) 
     [arXiv](arxiv.org/abs/2211.15730)  
 1. R. E. Morrison, R. Baptista, E. Basor. Diagonal nonlinear transformations preserve
     structure in covariance and precision matrices. *Journal of Multivariate Analysis*, 104983 (2022)  
