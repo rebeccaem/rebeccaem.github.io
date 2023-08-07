@@ -4,7 +4,9 @@ title: Teaching
 permalink: /teaching/
 ---
 
-### Classes (with link to sample syllabus)
+### Classes
+(with link to sample syllabus)
+  
 CSCI 2820: [Linear Algebra with CS Applications](syllabus-2820.pdf)  
 CSCI 4802/5802: [Data Science Team](syllabus-ds.pdf)  
 CSCI 5646: Numerical Linear Algebra  
