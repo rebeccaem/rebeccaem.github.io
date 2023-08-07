@@ -41,7 +41,7 @@ permalink: /publications/
 1. R. Bandy, R. Morrison. Quantifying model form uncertainty in spring-mass-damper systems.
     *Proceedings of IMAC-XLI Conference and Exposition 2023*, Austin, TX. **Best Paper Award**
 1. R. E. Morrison, R. Baptista, Y. Marzouk. Beyond normality: Learning sparse probabilistic models in the non-Gaussian setting.
-  *Advances in Neural Information Processing Systems 30 (NuerIPS 2017)*, 11 pages (Acceptance rate: 21%)
+  *Advances in Neural Information Processing Systems 30 (NeurIPS 2017)*, 11 pages (Acceptance rate: 21%)
 1. R. E. Morrison, C. M. Bryant, G. Terejanu, K. Miki, S. Prudhomme.
         Optimal data split methodology for model validation. *Proceedings of
       the World Congress on Engineering and Computer Science 2011*, p1038-1043 (Acceptance rate: 53%) **Best Student
