@@ -16,7 +16,7 @@ Dynamical systems
 Calibration, validation, and uncertainty quantification  
 
 ## Research group  
-Rileigh Bandy (CS PhD)  
+[Rileigh Bandy](https://rbandy.github.io/) (CS PhD)  
 Sam Kwon (Applied Math MS)  
 Noah Peterson (CS PhD)  
 Teo Price-Broncucia (CS PhD)
