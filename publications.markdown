@@ -50,7 +50,7 @@ permalink: /publications/
 ### Theses
 1. PhD Dissertation: *On the representation of model inadequacy: A stochastic operator approach*, 
  Advisor: Prof. Robert Moser, UT Austin, 2016
-1. Honors Senior Thesis: *On combinatorial games with a pass*, Advisor: Prof. Adam Landsberg, Scripps College, 2008
+1. Honors Senior Thesis: *From geometry to perturbation theory in combinatorial games: A case study of the game of Nim with a pass*, Advisor: Prof. Adam Landsberg, Scripps College, 2008
 
 ### Software
 1. [TransportMaps](https://transportmaps.mit.edu) D. Bigoni, A. Spantini, R. Baptista, R. Morrison
