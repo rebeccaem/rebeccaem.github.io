@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ### Journal Articles
+1. E. Basor, R. Morrison. Analytic solutions to nonlinear ODEs via spectral power series. (Submitted)
 1. R. Bandy, R. Morrison. Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions. 
 (In revision)     
 1. R. Baptista, R. E. Morrison, O. Zahm, Y. Marzouk. Learning non-Gaussian graphical
