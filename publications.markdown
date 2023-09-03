@@ -36,7 +36,7 @@ permalink: /publications/
 ### Peer-Reviewed Conference Papers
 1. T. Price-Broncucia, R. Morrison. Ultra-short time batching and unscented Kalman inversion for
     calibration of expensive chaotic models. *United States National Congress on Computation
-    Mechanics 2023*, Albuquerque, NM. **Invited to submit for student paper competition (1 of 12 slots)**  
+    Mechanics 2023*, Albuquerque, NM. **UQ Student Paper Competition Semi-Finalist**  
 1. T. Price-Broncucia, R. Morrison. Multi-time unscented Kalman inversion for calibration
     of expensive chaotic models. *14th International Conference on Applications of Statistics and
     Probability in Civil Engineering 2023*, Dublin, Ireland. **2023 CERRA Student Recognition Award**
