@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### Journal Articles
-1. E. Basor, R. Morrison. Analytic solutions to nonlinear ODEs via spectral power series. (In review)
+1. E. Basor, R. Morrison. Analytic solutions to nonlinear ODEs via spectral power series. (In review) [pdf](Spectral_Power_Series.pdf)
 2. S. Levental, S. Edie, R. Morrison, C. Simpson. Origin of division of labor is decoupled from polymorphism in colonial animals. (In review)
 1. P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and
     Changes-of-Variables.
