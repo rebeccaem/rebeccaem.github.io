@@ -7,7 +7,7 @@ permalink: /teaching/
 ### Classes
 (with link to sample syllabus)
   
-CSCI 2820: [Linear Algebra with CS Applications](rebeccaem.github.io/syllabi/2820.pdf)  
+CSCI 2820: [Linear Algebra with CS Applications](2820.pdf)  
 CSCI 4802/5802: [Data Science Team](syllabus-ds.pdf)  
 CSCI 5646: [Numerical Linear Algebra](syllabus-nla.pdf)  
 CSCI 5822: [Probabilistic Modeling of Human and Machine Intelligence](syllabus-5822.pdf)  
