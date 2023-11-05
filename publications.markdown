@@ -42,7 +42,7 @@ permalink: /publications/
     of expensive chaotic models. *14th International Conference on Applications of Statistics and
     Probability in Civil Engineering 2023*, Dublin, Ireland. **2023 CERRA Student Recognition Award**
 1. R. Bandy, R. Morrison. Quantifying model form uncertainty in spring-mass-damper systems.
-    *Proceedings of IMAC-XLI Conference and Exposition 2023*, Austin, TX. **Best Paper Award**
+     In *Society for Experimental Mechanics Annual Conference and Exposition*, p9-19. Springer Nature Switzerland, 2023. **Best Paper Award**
 1. R. E. Morrison, R. Baptista, Y. Marzouk. Beyond normality: Learning sparse probabilistic models in the non-Gaussian setting.
   *Advances in Neural Information Processing Systems 30 (NeurIPS 2017)*, 11 pages (Acceptance rate: 21%)
 1. R. E. Morrison, C. M. Bryant, G. Terejanu, K. Miki, S. Prudhomme.
