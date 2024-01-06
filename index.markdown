@@ -16,10 +16,12 @@ Dynamical systems
 Calibration, validation, and uncertainty quantification  
 
 ## Research group  
+Sienna Amorese  (Applied Math Senior Thesis)  
 [Rileigh Bandy](https://rbandy.github.io/) (CS PhD)  
 Sam Kwon (Applied Math MS)  
 Noah Peterson (CS PhD)  
-Teo Price-Broncucia (CS PhD)
+Teo Price-Broncucia (CS PhD)  
+Ujas Shah (CS PhD)
 
 
 
