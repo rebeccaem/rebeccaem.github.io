@@ -14,7 +14,7 @@ permalink: /publications/
 1. R. Baptista, R. E. Morrison, O. Zahm, Y. Marzouk. Learning non-Gaussian graphical
     models via Hessian scores and triangular transport. (In revision) 
    [arXiv](https://arxiv.org/abs/2101.03093)
-1. R. Bandy, R. Morrison. Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions. (In press)  
+1. R. Bandy, R. Morrison. Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions. *Chaos* 34, 013116 (2024) 
 1. R. E. Morrison, R. Baptista, E. Basor. Diagonal nonlinear transformations preserve
     structure in covariance and precision matrices. *Journal of Multivariate Analysis*, 104983 (2022)  
 1. M. Tosin, E. Dantas, A. Cunha, R. E. Morrison. ARBO: Arbovirus Modeling and Uncertainty
@@ -24,13 +24,13 @@ permalink: /publications/
 1. R. E. Morrison. Data-driven corrections of partial Lotka-Volterra models.
     *Entropy* 2020 (22)11, 1313  
 1. R. E. Morrison, A. Cunha. Embedded discrepancy operators: A case study of Zika
-    modeling. *Chaos: An Interdisciplinary Journal of Nonlinear Science*, 30(5):051103 (2020)  
+    modeling. *Chaos*, 30(5):051103 (2020)  
 1. R. E. Morrison, T. A. Oliver, R. D. Moser. Representing model inadequacy: A stochastic
       operator approach. *ASA/SIAM Journal on Uncertainty Quantification* 6 (2), 457-496 (2018)  
 1. R. E. Morrison, C. M. Bryant, G. Terejanu, S. Prudhomme, K. Miki. Data partition methodology for validation of predictive models. 
       *Computers and Mathematics with Applications*, 66 (10), 2114-2125 (2013)  
 1. R. E. Morrison, A. S. Landsberg, E. J. Friedman. Combinatorial games
-        with a pass: A geometric approach. *Chaos: An Interdisciplinary Journal of Nonlinear Science*  21, 043108 (2011)
+        with a pass: A geometric approach. *Chaos*  21, 043108 (2011)
 
 ### Peer-Reviewed Conference Papers
 1. R. Bandy, T. Portone, R. Morrison. Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge. Proceedings of IMAC-XLI Conference and Exposition 2024. (Submitted)
