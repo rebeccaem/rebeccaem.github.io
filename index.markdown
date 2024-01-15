@@ -4,6 +4,8 @@
 
 layout: home
 ---
+<img src="rem.jpg" width="48">
+
 Assistant Professor  
 Dept. of Computer Science  
 University of Colorado Boulder  
