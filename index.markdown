@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="rem.jpg" width="48">
+<img src="rem.jpg" width="200">
 
 Assistant Professor  
 Dept. of Computer Science  
