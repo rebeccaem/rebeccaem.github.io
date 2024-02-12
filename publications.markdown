@@ -33,7 +33,7 @@ permalink: /publications/
         with a pass: A geometric approach. *Chaos*  21, 043108 (2011)
 
 ### Peer-Reviewed Conference Papers
-1. R. Bandy, T. Portone, R. Morrison. Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge. Proceedings of IMAC-XLI Conference and Exposition 2024. (Submitted)
+1. R. Bandy, T. Portone, R. Morrison. Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge. *Proceedings of IMAC-XLI Conference and Exposition 2024*.
 2. T. Price-Broncucia, R. Morrison. Ultra-short time batching and unscented Kalman inversion for
     calibration of expensive chaotic models. *United States National Congress on Computation
     Mechanics 2023*, Albuquerque, NM. **UQ Student Paper Competition Semi-Finalist**  
