@@ -5,15 +5,14 @@ permalink: /publications/
 ---
 
 ### Journal Articles
-1. E. Basor, R. Morrison. Analytic solutions to nonlinear ODEs via spectral power series. (In review) [arXiv](https://arxiv.org/abs/2401.02401)
-2. S. Levental, S. Edie, R. Morrison, C. Simpson. Origin of division of labor is decoupled from polymorphism in colonial animals. (In review)
+1. S. Levental, S. Edie, R. Morrison, C. Simpson. Origin of division of labor is decoupled from polymorphism in colonial animals. (In review)
 1. P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and
     Changes-of-Variables.
     (In review) 
-    [arXiv](https://arxiv.org/abs/2211.15730)  
-1. R. Baptista, R. E. Morrison, O. Zahm, Y. Marzouk. Learning non-Gaussian graphical
-    models via Hessian scores and triangular transport. (In revision) 
-   [arXiv](https://arxiv.org/abs/2101.03093)
+    [arXiv](https://arxiv.org/abs/2211.15730)
+1. E. Basor, R. Morrison. Analytic solutions to nonlinear ODEs via spectral power series. *Linear Algebra and Its Applications* (Accepted) [arXiv](https://arxiv.org/abs/2401.02401)
+1. R. Baptista, R. Morrison, O. Zahm, Y. Marzouk. Learning non-Gaussian graphical
+    models via Hessian scores and triangular transport. *Journal of Machine Learning Research* 25(85):1-46, 2024
 1. R. Bandy, R. Morrison. Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions. *Chaos* 34, 013116 (2024) 
 1. R. E. Morrison, R. Baptista, E. Basor. Diagonal nonlinear transformations preserve
     structure in covariance and precision matrices. *Journal of Multivariate Analysis*, 104983 (2022)  
