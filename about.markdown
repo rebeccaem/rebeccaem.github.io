@@ -13,7 +13,7 @@ BA, Physics, Scripps College, 2008
 ### [Curriculum vita](vita.pdf) 
 
 ### Lab guidelines and other info
-[Lab guidelines](guidelines_REM_lab.pdf)
+[Lab guidelines](guidelines_REM_lab.pdf)  
 [Four golden lessons](4-golden-lessons.pdf) by Steven Weinberg
 
 ### In the news
