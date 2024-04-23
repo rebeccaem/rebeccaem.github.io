@@ -12,7 +12,9 @@ BA, Physics, Scripps College, 2008
 
 ### [Curriculum vita](vita.pdf) 
 
-### [Lab guidelines](guidelines_REM_lab.pdf)
+### Lab guidelines and other info
+[Lab guidelines](guidelines_REM_lab.pdf)
+[Four golden lessons](4-golden-lessons.pdf) by Steven Weinberg
 
 ### In the news
 [Interview with Jessie Finocchiaro](http://bouldercsgrads.org/neural-network/rebecca_morrison_nn.pdf) CU Boulder CS Neural Network, 4/23/21  
