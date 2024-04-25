@@ -28,9 +28,9 @@ url: "https://rebeccaem.github.io" # the base hostname & protocol for your site,
 github_username:  rebeccaem
 
 header_pages:
- - about.md
- - publications.md
- - teaching.md
+ - about.markdown
+ - publications.markdown
+ - teaching.markdown
 
 # Build settings
 theme: minima
