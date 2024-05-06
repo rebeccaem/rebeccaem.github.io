@@ -17,6 +17,10 @@ BA, Physics, Scripps College, 2008
 [Four golden lessons](4-golden-lessons.pdf) by Steven Weinberg  
 [Research software first steps](about/research_software_first_steps.md) by Teo Price-Broncucia
 
+### Some recent talks
+[Triangular transport for learning probabilistic graphical models](https://icerm.brown.edu/video_archive/?play=3148) ICERM, May 2023  
+[Highly reduced models of random ODEs: A framework, some examples, and analysis](https://youtu.be/PxpYso46Zfs?list=PLiEtieOeWbMKh9VcQoinSwODcSZKMTGat&t=902)  IU Bloomington IMAG/MSM Seminar, April 2024
+
 ### In the news
 [Interview with Jessie Finocchiaro](http://bouldercsgrads.org/neural-network/rebecca_morrison_nn.pdf) CU Boulder CS Neural Network, 4/23/21  
 [Covid models show how to avoid future lockdowns](https://www.scientificamerican.com/article/covid-models-show-how-to-avoid-future-lockdowns/) Scientific American, 11/24/20  
