@@ -13,7 +13,7 @@ permalink: /publications/
 1. E. Basor, R. Morrison. Analytic solutions to nonlinear ODEs via spectral power series. *Linear Algebra and Its Applications* (Accepted) [arXiv](https://arxiv.org/abs/2401.02401)
 1. R. Baptista, R. Morrison, O. Zahm, Y. Marzouk. [Learning non-Gaussian graphical
     models via Hessian scores and triangular transport](https://www.jmlr.org/papers/v25/21-0022.html). *Journal of Machine Learning Research* 25(85):1-46, 2024
-1. R. Bandy, R. Morrison. Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions. *Chaos* 34, 013116 (2024) 
+1. R. Bandy, R. Morrison. [Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions](https://pubs.aip.org/aip/cha/article/34/1/013116/2933697/Stochastic-model-corrections-for-reduced-Lotka). *Chaos* 34, 013116 (2024) 
 1. R. E. Morrison, R. Baptista, E. Basor. [Diagonal nonlinear transformations preserve
     structure in covariance and precision matrices](https://www.sciencedirect.com/science/article/abs/pii/S0047259X22000252). *Journal of Multivariate Analysis*, 104983 (2022)  
 1. M. Tosin, E. Dantas, A. Cunha, R. E. Morrison. [ARBO: Arbovirus Modeling and Uncertainty
