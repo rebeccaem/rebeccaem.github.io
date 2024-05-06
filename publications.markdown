@@ -11,25 +11,25 @@ permalink: /publications/
     (In review) 
     [arXiv](https://arxiv.org/abs/2211.15730)
 1. E. Basor, R. Morrison. Analytic solutions to nonlinear ODEs via spectral power series. *Linear Algebra and Its Applications* (Accepted) [arXiv](https://arxiv.org/abs/2401.02401)
-1. R. Baptista, R. Morrison, O. Zahm, Y. Marzouk. Learning non-Gaussian graphical
-    models via Hessian scores and triangular transport. *Journal of Machine Learning Research* 25(85):1-46, 2024
+1. R. Baptista, R. Morrison, O. Zahm, Y. Marzouk. [Learning non-Gaussian graphical
+    models via Hessian scores and triangular transport](https://www.jmlr.org/papers/v25/21-0022.html). *Journal of Machine Learning Research* 25(85):1-46, 2024
 1. R. Bandy, R. Morrison. Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions. *Chaos* 34, 013116 (2024) 
-1. R. E. Morrison, R. Baptista, E. Basor. Diagonal nonlinear transformations preserve
-    structure in covariance and precision matrices. *Journal of Multivariate Analysis*, 104983 (2022)  
-1. M. Tosin, E. Dantas, A. Cunha, R. E. Morrison. ARBO: Arbovirus Modeling and Uncertainty
-    Quantification Toolbox. *Software Impacts* 12, 100252 (2022)  
-1. R. E. Morrison. Exact reduction of the generalized Lotka-Volterra
-    equations via integral and algebraic substitutions. *Computation* 2021 (9)5, 49  
-1. R. E. Morrison. Data-driven corrections of partial Lotka-Volterra models.
+1. R. E. Morrison, R. Baptista, E. Basor. [Diagonal nonlinear transformations preserve
+    structure in covariance and precision matrices](https://www.sciencedirect.com/science/article/abs/pii/S0047259X22000252). *Journal of Multivariate Analysis*, 104983 (2022)  
+1. M. Tosin, E. Dantas, A. Cunha, R. E. Morrison. [ARBO: Arbovirus Modeling and Uncertainty
+    Quantification Toolbox](https://www.softwareimpacts.com/article/S2665-9638(22)00018-5/fulltext). *Software Impacts* 12, 100252 (2022)  
+1. R. E. Morrison. [Exact reduction of the generalized Lotka-Volterra
+    equations via integral and algebraic substitutions](https://www.mdpi.com/2079-3197/9/5/49). *Computation* 2021 (9)5, 49  
+1. R. E. Morrison. [Data-driven corrections of partial Lotka-Volterra models](https://www.mdpi.com/1099-4300/22/11/1313).
     *Entropy* 2020 (22)11, 1313  
-1. R. E. Morrison, A. Cunha. Embedded discrepancy operators: A case study of Zika
-    modeling. *Chaos*, 30(5):051103 (2020)  
-1. R. E. Morrison, T. A. Oliver, R. D. Moser. Representing model inadequacy: A stochastic
-      operator approach. *ASA/SIAM Journal on Uncertainty Quantification* 6 (2), 457-496 (2018)  
-1. R. E. Morrison, C. M. Bryant, G. Terejanu, S. Prudhomme, K. Miki. Data partition methodology for validation of predictive models. 
+1. R. E. Morrison, A. Cunha. [Embedded discrepancy operators: A case study of Zika
+    modeling](https://pubs.aip.org/aip/cha/article/30/5/051103/341992/Embedded-model-discrepancy-A-case-study-of-Zika). *Chaos*, 30(5):051103 (2020)  
+1. R. E. Morrison, T. A. Oliver, R. D. Moser. [Representing model inadequacy: A stochastic
+      operator approach](https://epubs.siam.org/doi/10.1137/16M1106419). *ASA/SIAM Journal on Uncertainty Quantification* 6 (2), 457-496 (2018)  
+1. R. E. Morrison, C. M. Bryant, G. Terejanu, S. Prudhomme, K. Miki. [Data partition methodology for validation of predictive models](https://www.sciencedirect.com/science/article/pii/S0898122113005476). 
       *Computers and Mathematics with Applications*, 66 (10), 2114-2125 (2013)  
-1. R. E. Morrison, A. S. Landsberg, E. J. Friedman. Combinatorial games
-        with a pass: A geometric approach. *Chaos*  21, 043108 (2011)
+1. R. E. Morrison, A. S. Landsberg, E. J. Friedman. [Combinatorial games
+        with a pass: A geometric approach](https://pubs.aip.org/aip/cha/article/21/4/043108/136700/Combinatorial-games-with-a-pass-A-dynamical). *Chaos*  21, 043108 (2011)
 
 ### Peer-Reviewed Conference Papers
 1. R. Bandy, T. Portone, R. Morrison. Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge. *Proceedings of IMAC-XLI Conference and Exposition 2024*.
