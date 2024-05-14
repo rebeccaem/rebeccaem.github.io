@@ -10,7 +10,7 @@ permalink: /publications/
     Changes-of-Variables.
     (In review) 
     [arXiv](https://arxiv.org/abs/2211.15730)
-1. E. Basor, R. Morrison. Analytic solutions to nonlinear ODEs via spectral power series. *Linear Algebra and Its Applications* (Accepted) [arXiv](https://arxiv.org/abs/2401.02401)
+1. E. Basor, R. Morrison. [Analytic solutions to nonlinear ODEs via spectral power series](https://www.sciencedirect.com/science/article/pii/S0024379524001940). *Linear Algebra and Its Applications* (In press) 
 1. R. Baptista, R. Morrison, O. Zahm, Y. Marzouk. [Learning non-Gaussian graphical
     models via Hessian scores and triangular transport](https://www.jmlr.org/papers/v25/21-0022.html). *Journal of Machine Learning Research* 25(85):1-46, 2024
 1. R. Bandy, R. Morrison. [Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions](https://pubs.aip.org/aip/cha/article/34/1/013116/2933697/Stochastic-model-corrections-for-reduced-Lotka). *Chaos* 34, 013116 (2024) 
