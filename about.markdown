@@ -22,6 +22,7 @@ BA, Physics, Scripps College, 2008
 [Highly reduced models of random ODEs: A framework, some examples, and analysis](https://youtu.be/PxpYso46Zfs?list=PLiEtieOeWbMKh9VcQoinSwODcSZKMTGat&t=902)  IU Bloomington IMAG/MSM Seminar, April 2024
 
 ### In the news
+[Group profile by Grace Wilson](https://www.colorado.edu/cs/2024/05/24/embracing-uncertainty-morrison-group) CU Boulder, CS Department 5/4/24  
 [Interview with Jessie Finocchiaro](http://bouldercsgrads.org/neural-network/rebecca_morrison_nn.pdf) CU Boulder CS Neural Network, 4/23/21  
 [Covid models show how to avoid future lockdowns](https://www.scientificamerican.com/article/covid-models-show-how-to-avoid-future-lockdowns/) Scientific American, 11/24/20  
 [Covid-19: Why most virus models are wrong](https://www.westword.com/news/covid-19-most-virus-models-are-wrong-colorado-expert-says-11709422) Westword, 05/12/20  
