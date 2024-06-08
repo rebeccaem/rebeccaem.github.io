@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### Journal Articles
-1. S. Levental, S. Edie, R. Morrison, C. Simpson. Origin of division of labor is decoupled from polymorphism in colonial animals. (In review)
+1. S. Levental, S. Edie, R. Morrison, C. Simpson. Origin of division of labor is decoupled from polymorphism in colonial animals. (Submitted)
 1. P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and
     Changes-of-Variables.
     (In review) 
@@ -32,8 +32,9 @@ permalink: /publications/
         with a pass: A geometric approach](https://pubs.aip.org/aip/cha/article/21/4/043108/136700/Combinatorial-games-with-a-pass-A-dynamical). *Chaos*  21, 043108 (2011)
 
 ### Peer-Reviewed Conference Papers
-1. R. Bandy, T. Portone, R. Morrison. Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge. *Proceedings of IMAC-XLI Conference and Exposition 2024*.
-2. T. Price-Broncucia, R. Morrison. Ultra-short time batching and unscented Kalman inversion for
+1. T. Price-Broncucia, S. Amorese, R. Baptista, R. Morrison. A probabilistic graphical model approach to interpret, verify, and decouple multi-physics systems. *Proceedings of 16th World Congress on Computational Mechanics (WCCM)*, 2024. (Submitted)
+2.  R. Bandy, T. Portone, R. Morrison. Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge. *Proceedings of IMAC-XLI Conference and Exposition 2024*.
+3. T. Price-Broncucia, R. Morrison. Ultra-short time batching and unscented Kalman inversion for
     calibration of expensive chaotic models. *United States National Congress on Computation
     Mechanics 2023*, Albuquerque, NM. **UQ Student Paper Competition Semi-Finalist**  
 1. T. Price-Broncucia, R. Morrison. Multi-time unscented Kalman inversion for calibration
