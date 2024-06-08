@@ -19,11 +19,11 @@ Calibration, validation, and uncertainty quantification
 
 ## Research group  
 Sienna Amorese  (Applied Math Senior Thesis)  
-[Rileigh Bandy](https://rbandy.github.io/) (CS PhD)  
 Noah Peterson (CS PhD)  
 Teo Price-Broncucia (CS PhD)  
 Ujas Shah (CS PhD)  
 Rach Washington (CS MS)
 
-
+## Previous group members
+[Rileigh Bandy](https://rbandy.github.io/) (CS PhD, 2024)  
 
