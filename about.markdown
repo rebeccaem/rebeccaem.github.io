@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Assistant Professor, CU Boulder, 2018 -- present  
+Assistant Professor, Computer Science, CU Boulder, 2018 -- present  
 Postdoc, AeroAstro, MIT, 2016 -- 2018  
 PhD, Computational Science, Engineering, & Mathematics, UT Austin, 2016  
 MS, Computational & Applied Mathematics, UT Austin, 2012  
