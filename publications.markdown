@@ -8,7 +8,7 @@ permalink: /publications/
 1. T. Price-Broncucia, A. Baker, D. Hammerling, M. Duda, R. Morrison. The Ensemble Consistency Test: From CESM to MPAS and Beyond. (Submitted)
 1. S. Levental, S. Edie, R. Morrison, C. Simpson. Origin of division of labor is decoupled from polymorphism in colonial animals. (Submitted)
 2. P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and Changes-of-Variables. (In review) [arXiv](https://arxiv.org/abs/2211.15730)
-1. E. Basor, R. Morrison. [Analytic solutions to nonlinear ODEs via spectral power series](https://www.sciencedirect.com/science/article/pii/S0024379524001940). *Linear Algebra and Its Applications* (In press) 
+1. E. Basor, R. Morrison. [Analytic solutions to nonlinear ODEs via spectral power series](https://www.sciencedirect.com/science/article/pii/S0024379524001940). *Linear Algebra and Its Applications* 697, 561-582 (2024)
 1. R. Baptista, R. Morrison, O. Zahm, Y. Marzouk. [Learning non-Gaussian graphical
     models via Hessian scores and triangular transport](https://www.jmlr.org/papers/v25/21-0022.html). *Journal of Machine Learning Research* 25(85):1-46, 2024
 1. R. Bandy, R. Morrison. [Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions](https://pubs.aip.org/aip/cha/article/34/1/013116/2933697/Stochastic-model-corrections-for-reduced-Lotka). *Chaos* 34, 013116 (2024) 
@@ -35,15 +35,15 @@ permalink: /publications/
 3. T. Price-Broncucia, R. Morrison. Ultra-short time batching and unscented Kalman inversion for
     calibration of expensive chaotic models. *United States National Congress on Computation
     Mechanics 2023*, Albuquerque, NM. **UQ Student Paper Competition Semi-Finalist**  
-1. T. Price-Broncucia, R. Morrison. Multi-time unscented Kalman inversion for calibration
-    of expensive chaotic models. *14th International Conference on Applications of Statistics and
+1. T. Price-Broncucia, R. Morrison. [Multi-time unscented Kalman inversion for calibration
+    of expensive chaotic models](https://www.tara.tcd.ie/handle/2262/103248). *14th International Conference on Applications of Statistics and
     Probability in Civil Engineering 2023*, Dublin, Ireland. **2023 CERRA Student Recognition Award**
-1. R. Bandy, R. Morrison. Quantifying model form uncertainty in spring-mass-damper systems.
+1. R. Bandy, R. Morrison. [Quantifying model form uncertainty in spring-mass-damper systems](https://www.springerprofessional.de/en/quantifying-model-form-uncertainty-in-spring-mass-damper-systems/26137730).
      In *Society for Experimental Mechanics Annual Conference and Exposition*, p9-19. Springer Nature Switzerland, 2023. **Best Paper Award**
-1. R. E. Morrison, R. Baptista, Y. Marzouk. Beyond normality: Learning sparse probabilistic models in the non-Gaussian setting.
+1. R. E. Morrison, R. Baptista, Y. Marzouk. [Beyond normality: Learning sparse probabilistic models in the non-Gaussian setting](https://papers.nips.cc/paper_files/paper/2017/hash/ea8fcd92d59581717e06eb187f10666d-Abstract.html).
   *Advances in Neural Information Processing Systems 30 (NeurIPS 2017)*, 11 pages (Acceptance rate: 21%)
 1. R. E. Morrison, C. M. Bryant, G. Terejanu, K. Miki, S. Prudhomme.
-        Optimal data split methodology for model validation. *Proceedings of
+        [Optimal data split methodology for model validation](https://www.iaeng.org/publication/WCECS2011/WCECS2011_pp1038-1043.pdf). *Proceedings of
       the World Congress on Engineering and Computer Science 2011*, p1038-1043 (Acceptance rate: 53%) **Best Student
       Paper Award**
 
