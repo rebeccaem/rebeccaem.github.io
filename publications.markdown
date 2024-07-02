@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### Journal Articles
-1. R. Morrison, E. Basor. Exact mean and covariance formulas after diagonal transformations of a multivariate normal. (Submitted)
+1. R. Morrison, E. Basor. Exact mean and covariance formulas after diagonal transformations of a multivariate normal. (Submitted) [arXiv](https://arxiv.org/abs/2407.00240)
 2. T. Price-Broncucia, A. Baker, D. Hammerling, M. Duda, R. Morrison. The Ensemble Consistency Test: From CESM to MPAS and Beyond. (Submitted)
 1. S. Levental, S. Edie, R. Morrison, C. Simpson. Origin of division of labor is decoupled from polymorphism in colonial animals. (Submitted)
 2. P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and Changes-of-Variables. (In review) [arXiv](https://arxiv.org/abs/2211.15730)
