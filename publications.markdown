@@ -56,6 +56,6 @@ permalink: /publications/
 ### Software
 1. [Nonparanormal covariance (examples)](https://zenodo.org/records/12537599) R. Morrison
 2. [TransportMaps](https://transportmaps.mit.edu) D. Bigoni, A. Spantini, R. Baptista, R. Morrison
-1. [ARBO: Arbovirus Modeling and Uncertainty Quantification Toolbox.](https://americocunhajr.github.io/ARBO) M. Tosin, E. Dantas, A. Cunha, R. Morrison
+1. [ARBO: Arbovirus Modeling and Uncertainty Quantification Toolbox.](https://github.com/americocunhajr/ARBO) M. Tosin, E. Dantas, A. Cunha, R. Morrison
 1. [Zika](https://github.com/rebeccaem/zika) R. Morrison, A. Cunha
 1. [Enriched-GLV](https://github.com/rebeccaem/enriched-glv) R. Morrison
