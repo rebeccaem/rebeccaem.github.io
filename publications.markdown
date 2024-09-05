@@ -6,9 +6,9 @@ permalink: /publications/
 
 ### Journal Articles
 1. R. Morrison, E. Basor. Exact mean and covariance formulas after diagonal transformations of a multivariate normal. (Submitted) [arXiv](https://arxiv.org/abs/2407.00240)
-2. T. Price-Broncucia, A. Baker, D. Hammerling, M. Duda, R. Morrison. The Ensemble Consistency Test: From CESM to MPAS and Beyond. (Submitted) [GMD Preprint](https://gmd.copernicus.org/preprints/gmd-2024-115/)
-1. S. Levental, S. Edie, R. Morrison, C. Simpson. Origin of division of labor is decoupled from polymorphism in colonial animals. (Submitted) [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.07.05.602267v1)
+3. T. Price-Broncucia, A. Baker, D. Hammerling, M. Duda, R. Morrison. The Ensemble Consistency Test: From CESM to MPAS and Beyond. (Submitted) [GMD Preprint](https://gmd.copernicus.org/preprints/gmd-2024-115/)
 2. P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and Changes-of-Variables. (In review) [arXiv](https://arxiv.org/abs/2211.15730)
+3. S. Levental, S. Edie, R. Morrison, C. Simpson. Origin of division of labor is decoupled from polymorphism in colonial animals. (In revision) [bioRxiv](https://www.biorxiv.org/content/10.1101/2024.07.05.602267v1)
 1. E. Basor, R. Morrison. [Analytic solutions to nonlinear ODEs via spectral power series](https://www.sciencedirect.com/science/article/pii/S0024379524001940). *Linear Algebra and Its Applications* 697, 561-582 (2024)
 1. R. Baptista, R. Morrison, O. Zahm, Y. Marzouk. [Learning non-Gaussian graphical
     models via Hessian scores and triangular transport](https://www.jmlr.org/papers/v25/21-0022.html). *Journal of Machine Learning Research* 25(85):1-46, 2024
@@ -31,9 +31,10 @@ permalink: /publications/
         with a pass: A geometric approach](https://pubs.aip.org/aip/cha/article/21/4/043108/136700/Combinatorial-games-with-a-pass-A-dynamical). *Chaos*  21, 043108 (2011)
 
 ### Peer-Reviewed Conference Papers
-1. T. Price-Broncucia, S. Amorese, R. Baptista, R. Morrison. A probabilistic graphical model approach to interpret, verify, and decouple multi-physics systems. *Proceedings of 16th World Congress on Computational Mechanics (WCCM)*, 2024. (Submitted)
-2.  R. Bandy, T. Portone, R. Morrison. Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge. *Proceedings of IMAC-XLI Conference and Exposition 2024*.
-3. T. Price-Broncucia, R. Morrison. Ultra-short time batching and unscented Kalman inversion for
+1. S. Liaw, R. Morrison, Y. Marzouk, R. Baptista. Learning local neighborhoods of non-Gaussian graphical models. (Submitted)
+2. T. Price-Broncucia, S. Amorese, R. Baptista, R. Morrison. A probabilistic graphical model approach to interpret, verify, and decouple multi-physics systems. *Proceedings of 16th World Congress on Computational Mechanics (WCCM)*, 2024. (Submitted)
+3.  R. Bandy, T. Portone, R. Morrison. Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge. *Proceedings of IMAC-XLI Conference and Exposition 2024*.
+4. T. Price-Broncucia, R. Morrison. Ultra-short time batching and unscented Kalman inversion for
     calibration of expensive chaotic models. *United States National Congress on Computation
     Mechanics 2023*, Albuquerque, NM. **UQ Student Paper Competition Semi-Finalist**  
 1. T. Price-Broncucia, R. Morrison. [Multi-time unscented Kalman inversion for calibration
