@@ -13,15 +13,17 @@ ECOT 820
 rebeccam@colorado.edu
 
 ## Research interests
-Probabilistic graphical models  
-Dynamical systems  
-Calibration, validation, and uncertainty quantification  
+I identify and exploit sparse structures in complex, interacting, multi-physics, uncertain, and/or random systems. 
+I focus on two types of sparse structures: _sparse graphs_ and _sparse dynamics_, especially in scenarios with 
+nonlinear models and non-Gaussian data. I also work on a variety of topics within the fields of calibration, validation, and uncertainty quantification, a broad area that combines elements from science, engineering, mathematics, and computing.
 
 ## Research group  
 Sienna Amorese  (Applied Math Senior Thesis)  
+Nate Holland (CS PhD)  
 Noah Peterson (CS PhD)  
 [Teo Price-Broncucia](https://teopb.github.io) (CS PhD)  
 Ujas Shah (CS PhD)  
+Jack Shaw (CS + Geology Postdoc)  
 
 ## Previous group members
 [Rileigh Bandy](https://rbandy.github.io/) (CS PhD, 2024)  
