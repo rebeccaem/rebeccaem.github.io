@@ -15,7 +15,8 @@ rebeccam@colorado.edu
 ## Research interests
 I identify and exploit sparse structures in complex, interacting, multi-physics, uncertain, and/or random systems. 
 I focus on two types of sparse structures: _sparse graphs_ and _sparse dynamics_, especially in scenarios with 
-nonlinear models and non-Gaussian data. I also work on a variety of topics within the fields of calibration, validation, and uncertainty quantification, a broad area that combines elements from science, engineering, mathematics, and computing.
+nonlinear models and non-Gaussian data. I also work on a variety of topics within the fields of calibration, validation, and uncertainty quantification, a broad area that combines elements from science, engineering, mathematics, and computing. 
+Applications I have worked on include combustion, epidemiology, climate, satellites and reentry vehicles, and space weather.
 
 ## Research group  
 Sienna Amorese  (Applied Math Senior Thesis)  
