@@ -31,10 +31,10 @@ permalink: /publications/
         with a pass: A geometric approach](https://pubs.aip.org/aip/cha/article/21/4/043108/136700/Combinatorial-games-with-a-pass-A-dynamical). *Chaos*  21, 043108 (2011)
 
 ### Peer-Reviewed Conference Papers
-1. R. Bandy, R. Washington, R. Morrison, T. Portone. Isolating and Quantifying Uncertainties in the Vibration Isolation Round-Robin Challenge. (Submitted)
-2. S. Liaw, R. Morrison, Y. Marzouk, R. Baptista. Learning local neighborhoods of non-Gaussian graphical models. (In review)
+1. R. Bandy, R. Washington, R. Morrison, T. Portone. Isolating and Quantifying Uncertainties in the Vibration Isolation Round-Robin Challenge. (In review)
+2. S. Liaw, R. Morrison, Y. Marzouk, R. Baptista. Learning local neighborhoods of non-Gaussian graphical models. (Accepted)
 3. T. Price-Broncucia, S. Amorese, R. Baptista, R. Morrison. [A probabilistic graphical model approach to interpret, verify, and decouple multi-physics systems](https://www.scipedia.com/public/Baptista_et_al_2024a). *Proceedings of 16th World Congress on Computational Mechanics*, 2024
-4.  R. Bandy, T. Portone, R. Morrison. Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge. *Proceedings of IMAC-XLI Conference and Exposition 2024*.
+4.  R. Bandy, T. Portone, R. Morrison. [Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge](https://link.springer.com/chapter/10.1007/978-3-031-68893-5_8). In *IMAC, A Conference and Exposition on Structural Dynamics*, p53-62. Cham: Springer Nature Switzerland, 2024.
 5. T. Price-Broncucia, R. Morrison. Ultra-short time batching and unscented Kalman inversion for
     calibration of expensive chaotic models. *United States National Congress on Computational
     Mechanics 2023*, Albuquerque, NM. **UQ Student Paper Competition Semi-Finalist**  
@@ -42,7 +42,7 @@ permalink: /publications/
     of expensive chaotic models](https://www.tara.tcd.ie/handle/2262/103248). *14th International Conference on Applications of Statistics and
     Probability in Civil Engineering 2023*, Dublin, Ireland. **2023 CERRA Student Recognition Award**
 1. R. Bandy, R. Morrison. [Quantifying model form uncertainty in spring-mass-damper systems](https://www.springerprofessional.de/en/quantifying-model-form-uncertainty-in-spring-mass-damper-systems/26137730).
-     In *Society for Experimental Mechanics Annual Conference and Exposition*, p9-19. Springer Nature Switzerland, 2023. **Best Paper Award**
+     In *Society for Experimental Mechanics Annual Conference and Exposition*, p9-19. Cham: Springer Nature Switzerland, 2023. **Best Paper Award**
 1. R. E. Morrison, R. Baptista, Y. Marzouk. [Beyond normality: Learning sparse probabilistic models in the non-Gaussian setting](https://papers.nips.cc/paper_files/paper/2017/hash/ea8fcd92d59581717e06eb187f10666d-Abstract.html).
   *Advances in Neural Information Processing Systems 30 (NeurIPS 2017)*, 11 pages (Acceptance rate: 21%)
 1. R. E. Morrison, C. M. Bryant, G. Terejanu, K. Miki, S. Prudhomme.
