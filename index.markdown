@@ -10,7 +10,10 @@ Assistant Professor
 Dept. of Computer Science  
 University of Colorado Boulder  
 ECOT 820  
-rebeccam@colorado.edu
+rebeccam@colorado.edu  
+
+*If you would like to talk to me about research opportunities, grading or TA positions, reference letters, or just about anything else, please come to my office hours.  
+Office hours for Spring 2025 are:  Wednesday 1:30 - 3:00.*
 
 ## Research interests
 I identify and exploit sparse structures in complex, interacting, multi-physics, uncertain, and/or random systems. 
