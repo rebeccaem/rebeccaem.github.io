@@ -31,8 +31,8 @@ permalink: /publications/
         with a pass: A geometric approach](https://pubs.aip.org/aip/cha/article/21/4/043108/136700/Combinatorial-games-with-a-pass-A-dynamical). *Chaos*  21, 043108 (2011)
 
 ### Peer-Reviewed Conference Papers
-1. R. Bandy, R. Washington, R. Morrison, T. Portone. Isolating and Quantifying Uncertainties in the Vibration Isolation Round-Robin Challenge. (In review)
-2. S. Liaw, R. Morrison, Y. Marzouk, R. Baptista. Learning local neighborhoods of non-Gaussian graphical models: A measure transport approach. *AAAI 2025.* [arXiv](https://arxiv.org/abs/2503.13899)
+1. S. Liaw, R. Morrison, Y. Marzouk, R. Baptista. Learning local neighborhoods of non-Gaussian graphical models: A measure transport approach. *AAAI 2025.* [arXiv](https://arxiv.org/abs/2503.13899)
+2. R. Bandy, R. Washington, R. Morrison, T. Portone. Isolating and Quantifying Uncertainties in the Vibration Isolation Round-Robin Challenge. In *IMAC, A Conference and Exposition on Structural Dynamics,* 2025  
 3. T. Price-Broncucia, S. Amorese, R. Baptista, R. Morrison. [A probabilistic graphical model approach to interpret, verify, and decouple multi-physics systems](https://www.scipedia.com/public/Baptista_et_al_2024a). *Proceedings of 16th World Congress on Computational Mechanics*, 2024
 4.  R. Bandy, T. Portone, R. Morrison. [Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge](https://link.springer.com/chapter/10.1007/978-3-031-68893-5_8). In *IMAC, A Conference and Exposition on Structural Dynamics*, p53-62. Cham: Springer Nature Switzerland, 2024.
 5. T. Price-Broncucia, R. Morrison. Ultra-short time batching and unscented Kalman inversion for
