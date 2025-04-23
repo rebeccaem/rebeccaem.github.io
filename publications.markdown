@@ -6,9 +6,9 @@ permalink: /publications/
 
 ### Journal Articles
 1. R. Morrison, E. Basor. Exact mean and covariance formulas after diagonal transformations of a multivariate normal. (In review) [arXiv](https://arxiv.org/abs/2407.00240)
-3. T. Price-Broncucia, A. Baker, D. Hammerling, M. Duda, R. Morrison. The Ensemble Consistency Test: From CESM to MPAS and Beyond. (In review) [GMD Preprint](https://gmd.copernicus.org/preprints/gmd-2024-115/)
-2. P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and Changes-of-Variables. (In review) [arXiv](https://arxiv.org/abs/2211.15730)
-3. S. Levental, S. Edie, R. Morrison, C. Simpson. [Origin of division of labor is decoupled from polymorphism in colonial animals.](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgae476/7830526) *PNAS Nexus* 2024, p476.
+2.  P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and Changes-of-Variables. (In review) [arXiv](https://arxiv.org/abs/2211.15730)
+3. T. Price-Broncucia, A. Baker, D. Hammerling, M. Duda, R. Morrison. [The Ensemble Consistency Test: From CESM to MPAS and Beyond](https://gmd.copernicus.org/articles/18/2349/2025/). GMD 18, 2349–2372, 2025
+3. S. Levental, S. Edie, R. Morrison, C. Simpson. [Origin of division of labor is decoupled from polymorphism in colonial animals.](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgae476/7830526) *PNAS Nexus* 2024, p476
 1. E. Basor, R. Morrison. [Analytic solutions to nonlinear ODEs via spectral power series](https://www.sciencedirect.com/science/article/pii/S0024379524001940). *Linear Algebra and Its Applications* 697, 561-582 (2024)
 1. R. Baptista, R. Morrison, O. Zahm, Y. Marzouk. [Learning non-Gaussian graphical
     models via Hessian scores and triangular transport](https://www.jmlr.org/papers/v25/21-0022.html). *Journal of Machine Learning Research* 25(85):1-46, 2024
@@ -31,11 +31,12 @@ permalink: /publications/
         with a pass: A geometric approach](https://pubs.aip.org/aip/cha/article/21/4/043108/136700/Combinatorial-games-with-a-pass-A-dynamical). *Chaos*  21, 043108 (2011)
 
 ### Peer-Reviewed Conference Papers
-1. S. Liaw, R. Morrison, Y. Marzouk, R. Baptista. Learning local neighborhoods of non-Gaussian graphical models: A measure transport approach. *AAAI 2025.* [arXiv](https://arxiv.org/abs/2503.13899)
-2. R. Bandy, R. Washington, R. Morrison, T. Portone. Isolating and Quantifying Uncertainties in the Vibration Isolation Round-Robin Challenge. In *IMAC, A Conference and Exposition on Structural Dynamics,* 2025  
-3. T. Price-Broncucia, S. Amorese, R. Baptista, R. Morrison. [A probabilistic graphical model approach to interpret, verify, and decouple multi-physics systems](https://www.scipedia.com/public/Baptista_et_al_2024a). *Proceedings of 16th World Congress on Computational Mechanics*, 2024
-4.  R. Bandy, T. Portone, R. Morrison. [Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge](https://link.springer.com/chapter/10.1007/978-3-031-68893-5_8). In *IMAC, A Conference and Exposition on Structural Dynamics*, p53-62. Cham: Springer Nature Switzerland, 2024.
-5. T. Price-Broncucia, R. Morrison. Ultra-short time batching and unscented Kalman inversion for
+1. S. Liaw, R. Morrison, Y. Marzouk, R. Baptista. [Learning local neighborhoods of non-Gaussian graphical models](https://ojs.aaai.org/index.php/AAAI/article/view/34059). *AAAI*, Vol. 39, No. 18, 2025.
+   ([Extended version](https://arxiv.org/abs/2503.13899) on arXiv)
+3. R. Bandy, R. Washington, R. Morrison, T. Portone. Isolating and Quantifying Uncertainties in the Vibration Isolation Round-Robin Challenge. In *IMAC, A Conference and Exposition on Structural Dynamics,* 2025  
+4. T. Price-Broncucia, S. Amorese, R. Baptista, R. Morrison. [A probabilistic graphical model approach to interpret, verify, and decouple multi-physics systems](https://www.scipedia.com/public/Baptista_et_al_2024a). *Proceedings of 16th World Congress on Computational Mechanics*, 2024
+5.  R. Bandy, T. Portone, R. Morrison. [Stochastic Model Correction for the Adaptive Vibration Isolation Round-Robin Challenge](https://link.springer.com/chapter/10.1007/978-3-031-68893-5_8). In *IMAC, A Conference and Exposition on Structural Dynamics*, p53-62. Cham: Springer Nature Switzerland, 2024
+6. T. Price-Broncucia, R. Morrison. Ultra-short time batching and unscented Kalman inversion for
     calibration of expensive chaotic models. *United States National Congress on Computational
     Mechanics 2023*, Albuquerque, NM. **UQ Student Paper Competition Semi-Finalist**  
 1. T. Price-Broncucia, R. Morrison. [Multi-time unscented Kalman inversion for calibration
