@@ -33,5 +33,9 @@ BA, Physics, Scripps College, 2008
 Rebecca Morrison is an assistant professor in the Computer Science Department at CU Boulder. Before joining CU, she was a postdoc in the AeroAstro Department at MIT, received her PhD in Computational Science, Engineering, and Mathematics at UT Austin, and completed a BA in Physics at Scripps College. Rebecca’s research identifies and exploits sparse structures (sparse graphical models or sparse dynamics) in nonlinear, interacting, multi-physics, and/or non-Gaussian systems. She also works on a variety of topics within the fields of calibration, validation, and uncertainty quantification, and has experience with applications including combustion, epidemiology, climate, satellites and reentry vehicles, and space weather. Rebecca currently serves as Program Director for the SIAM Activity Group on Data Science; contributes to computational libraries for Bayesian methods, uncertainty quantification, and epidemiology; and received the Johnson & Johnson Women in STEM2D Award in Mathematics.
 
 ### At the barn
+![Rebecca, Carl, Max, & Archie at Pajaro Dunes, June 2025](family-dunes.jpeg)
+Rebecca, Carl, Max, & Archie at Pajaro Dunes, June 2025
+![Rebecca & Silver at Blue Cloud Farms, November 2023](silver.jpeg)
+Rebecca & Silver at Blue Cloud Farms, November 2023
 ![Rebecca & Max at Blue Cloud Farms, July 2022](R-and-M-barn.jpeg)
 Rebecca & Max at Blue Cloud Farms, July 2022
