@@ -21,13 +21,12 @@ Probabilistic graphical models
 Calibration, validation, and uncertainty quantification
 
 ## Research group  
-Sienna Amorese  (Applied Math Senior Thesis)  
 Nate Holland (CS PhD)  
 Noah Peterson (CS PhD)  
-[Teo Price-Broncucia](https://teopb.github.io) (CS PhD)  
 Ujas Shah (CS PhD)  
 Jack Shaw (CS + Geology Postdoc)  
 
 ## Previous group members
 [Rileigh Bandy](https://rbandy.github.io/) (CS PhD, 2024)  
+[Teo Price-Broncucia](https://teopb.github.io) (CS PhD, 2025)  
 
