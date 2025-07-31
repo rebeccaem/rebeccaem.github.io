@@ -22,9 +22,10 @@ BA, Physics, Scripps College, 2008
 [Highly reduced models of random ODEs: A framework, some examples, and analysis](https://youtu.be/PxpYso46Zfs?list=PLiEtieOeWbMKh9VcQoinSwODcSZKMTGat&t=902)  IU Bloomington IMAG/MSM Seminar, April 2024
 
 ### In the news
+[15 Faculty Recognized as Exceptional Mentors](https://www.colorado.edu/graduateschool/2025/05/02/fifteen-faculty-recognized-exceptional-mentors) Graduate School, CU Boulder, 5/2/25  
 [How did the division of labor emerge in animals and humans? Little-known organisms hold clues](https://www.colorado.edu/today/2024/11/12/how-did-division-labor-emerge-animals-and-humans-little-known-organisms-hold-clues) CU Boulder Today, 11/12/24   
-[Group profile by Grace Wilson](https://www.colorado.edu/cs/2024/05/24/embracing-uncertainty-morrison-group) CU Boulder CS Department, 5/4/24  
-[Interview with Jessie Finocchiaro](http://bouldercsgrads.org/neural-network/rebecca_morrison_nn.pdf) CU Boulder CS Neural Network, 4/23/21  
+[Group profile by Grace Wilson](https://www.colorado.edu/cs/2024/05/24/embracing-uncertainty-morrison-group) CS Department, CU Boulder,  5/4/24  
+[Interview with Jessie Finocchiaro](http://bouldercsgrads.org/neural-network/rebecca_morrison_nn.pdf) CS Neural Network, CU Boulder, 4/23/21  
 [Covid models show how to avoid future lockdowns](https://www.scientificamerican.com/article/covid-models-show-how-to-avoid-future-lockdowns/) Scientific American, 11/24/20  
 [Covid-19: Why most virus models are wrong](https://www.westword.com/news/covid-19-most-virus-models-are-wrong-colorado-expert-says-11709422) Westword, 05/12/20  
 [Scientists develop tool to improve disease model accuracy](https://www.colorado.edu/today/2020/05/05/scientists-develop-tool-improve-disease-model-accuracy) CU Boulder Today, 05/05/20  
