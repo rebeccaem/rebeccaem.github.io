@@ -7,8 +7,8 @@ permalink: /publications/
 ### Journal Articles
 1. U. Shah, M. Lladser, R. Morrison. Conditional independence estimates for the generalized nonparanormal. (In review)
 1. T. Price-Broncucia, R. Morrison. Ultra-fast unscented Kalman inversion for the calibration of expensive chaotic models. (In revision)
-2. R. Morrison, E. Basor. Exact mean and covariance formulas after diagonal transformations of a multivariate normal. (In press) [arXiv](https://arxiv.org/abs/2407.00240)
-3.  P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and Changes-of-Variables. (In review) [arXiv](https://arxiv.org/abs/2211.15730)
+2. P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and Changes-of-Variables. (In review) [arXiv](https://arxiv.org/abs/2211.15730)
+3. R. Morrison, E. Basor. [Exact mean and covariance formulas after diagonal transformations of a multivariate normal](https://www.sciencedirect.com/science/article/abs/pii/S0047259X25000843?via%3Dihub). *Journal of Multivariate Analysis*, 105489 (2025)
 4. T. Price-Broncucia, A. Baker, D. Hammerling, M. Duda, R. Morrison. [The Ensemble Consistency Test: From CESM to MPAS and Beyond](https://gmd.copernicus.org/articles/18/2349/2025/). GMD 18, 2349–2372, 2025
 3. S. Levental, S. Edie, R. Morrison, C. Simpson. [Origin of division of labor is decoupled from polymorphism in colonial animals.](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgae476/7830526) *PNAS Nexus* 2024, p476
 1. E. Basor, R. Morrison. [Analytic solutions to nonlinear ODEs via spectral power series](https://www.sciencedirect.com/science/article/pii/S0024379524001940). *Linear Algebra and Its Applications* 697, 561-582 (2024)
