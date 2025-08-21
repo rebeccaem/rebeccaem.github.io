@@ -12,8 +12,8 @@ University of Colorado Boulder
 ECOT 820  
 rebeccam@colorado.edu  
 
-*If you would like to talk to me about research opportunities, grading or TA positions, reference letters, or just about anything else, please come to my office hours.  
-Office hours for Spring 2025 are:  Wednesday 1:30 - 3:00.*
+*If you would like to talk to me about research opportunities, grading or TA positions, reference letters, or just about anything else, please come to my office hours or drop by my office anytime.  
+Office hours for Fall 2025 are:  Tuesday 3:30 - 4:30.*
 
 ## Research interests
 Dynamical systems  
