@@ -1,6 +1,6 @@
 | Week | Date | In-class | Reading | Other |
 | --- | --- | --- | --- | --- |
-| 1  | 8/27 | Intro, C&S | Pinker essay, C&S p7--12 | Join slack |
+| 1  | 8/27 | Intro, C&S | [Pinker essay](../6110-papers/pinker.pdf), C&S p7--12 | Join slack |
 | 2 | 9/3 |  |  | |
 
 
