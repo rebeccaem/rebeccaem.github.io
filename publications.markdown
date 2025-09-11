@@ -5,7 +5,8 @@ permalink: /publications/
 ---
 
 ### Journal Articles
-1. U. Shah, M. Lladser, R. Morrison. Conditional independence estimates for the generalized nonparanormal. (In review)
+1. R. Bandy, R. Morrison, E. Mussoni, T. Portone. Hybrid physics-data enrichments to represent uncertainty in reduced gas-surface chemistry models for hypersonic flight. [arXiv](https://arxiv.org/abs/2509.08137)
+2. U. Shah, M. Lladser, R. Morrison. Conditional independence estimates for the generalized nonparanormal. (In review) [arXiv](https://arxiv.org/abs/2508.11050v1)
 1. T. Price-Broncucia, R. Morrison. Ultra-fast unscented Kalman inversion for the calibration of expensive chaotic models. (In revision)
 2. P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and Changes-of-Variables. (In review) [arXiv](https://arxiv.org/abs/2211.15730)
 3. R. Morrison, E. Basor. [Exact mean and covariance formulas after diagonal transformations of a multivariate normal](https://www.sciencedirect.com/science/article/abs/pii/S0047259X25000843?via%3Dihub). *Journal of Multivariate Analysis*, 105489 (2025)
