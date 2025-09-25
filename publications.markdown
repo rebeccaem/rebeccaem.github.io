@@ -11,7 +11,7 @@ permalink: /publications/
 2. P. W. Marcy, R. Morrison. ''Stochastic Inverse Problems'' and Changes-of-Variables. (In review) [arXiv](https://arxiv.org/abs/2211.15730)
 3. R. Morrison, E. Basor. [Exact mean and covariance formulas after diagonal transformations of a multivariate normal](https://www.sciencedirect.com/science/article/abs/pii/S0047259X25000843?via%3Dihub). *Journal of Multivariate Analysis*, 105489 (2025)
 4. T. Price-Broncucia, A. Baker, D. Hammerling, M. Duda, R. Morrison. [The Ensemble Consistency Test: From CESM to MPAS and Beyond](https://gmd.copernicus.org/articles/18/2349/2025/). GMD 18, 2349–2372, 2025
-3. S. Levental, S. Edie, R. Morrison, C. Simpson. [Origin of division of labor is decoupled from polymorphism in colonial animals.](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgae476/7830526) *PNAS Nexus* 2024, p476
+3. S. Leventhal, S. Edie, R. Morrison, C. Simpson. [Origin of division of labor is decoupled from polymorphism in colonial animals.](https://academic.oup.com/pnasnexus/advance-article/doi/10.1093/pnasnexus/pgae476/7830526) *PNAS Nexus* 2024, p476. **Smithsonian National Museum of Natural History Early Career Award** for Sarah Leventhal
 1. E. Basor, R. Morrison. [Analytic solutions to nonlinear ODEs via spectral power series](https://www.sciencedirect.com/science/article/pii/S0024379524001940). *Linear Algebra and Its Applications* 697, 561-582 (2024)
 1. R. Baptista, R. Morrison, O. Zahm, Y. Marzouk. [Learning non-Gaussian graphical
     models via Hessian scores and triangular transport](https://www.jmlr.org/papers/v25/21-0022.html). *Journal of Machine Learning Research* 25(85):1-46, 2024
