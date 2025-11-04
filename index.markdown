@@ -27,6 +27,15 @@ Ujas Shah (CS PhD)
 Jack Shaw (CS + Geology Postdoc)  
 
 ## Previous group members
-[Rileigh Bandy](https://rbandy.github.io/) (CS PhD, 2024)  
-[Teo Price-Broncucia](https://teopb.github.io) (CS PhD, 2025)  
 
+### PhD
+[Teo Price-Broncucia](https://teopb.github.io), CS PhD, 2025  
+[Rileigh Bandy](https://rbandy.github.io/), CS PhD, 2024  
+
+### Masters
+Rachel Washington, Summer intern, 2024  
+
+### Undergraduate
+Sienna Amorese (Applied Math: Stats), Latin Senior Thesis, 2024 -- 2025  
+Daniel Crook, Discovery Learning Apprenticeship (DLA), 2020 -- 2021  
+Michael Donovan, DLA, 2020 -- 2021
