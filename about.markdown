@@ -13,8 +13,8 @@ BA, Physics, Scripps College, 2008
 ### [Curriculum vita](vita.pdf) 
 
 ### Lab guidelines and other info
-[Lab guidelines](guidelines_REM_lab.pdf)  
-[Four golden lessons](4-golden-lessons.pdf) by Steven Weinberg  
+[Lab guidelines](about/guidelines_REM_lab.pdf)  
+[Four golden lessons](about/4-golden-lessons.pdf) by Steven Weinberg  
 [Research software first steps](about/research_software_first_steps.md) by Teo Price-Broncucia
 
 ### Some recent talks
