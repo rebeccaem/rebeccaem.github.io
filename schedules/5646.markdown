@@ -11,5 +11,6 @@
 | 9 | 10 Householder Triangularization | 10/14: EXAM 1 | 10/16: no quiz | 10.1, 10.3 |
 | 10 | 11 Least Squares & 12 Conditioning | 10/21: Exam review | 10:23 Q7-L10 | 11.3 (modified in class) |
 | 11 | 12 Conditioning (cont'd) & 13 Floating Point Arithmetic | 10/28: | 10/30: Q8-L11 | 12.1, 12.3, 13.1, 13.3 |
+| 12 | 14 Stability & 15 More on Stability | 11/4: R12-13| 11/6: Q9-L12-13| 14.1, 14.2, 15.11a-d (e-g bonus!) |
 
 Q = quiz, R = review
