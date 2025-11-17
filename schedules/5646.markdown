@@ -15,7 +15,7 @@
 | 13 | 20 Gaussian Elimination | 11/11: R14-15 | 11/13: No class | 20.2, 20.3, 21.1, 21.2 |
 | 14 | 21 Pivoting, 23 Cholesky Factorization, 24-25 Eigenvalue Problems & Algorithms| lecture | lecture + group activity | 23.1, 24.1, 25.1, 25.3 |
 | 15 |-- | FALL | BREAK | -- |
-| 16 | 26 Tridiagonal Form, 27 Rayleigh Quotient, Inverse Iteration, 28/9 QR Algorithm with/out Shifts, 31 Computing the SVD| 12/2: Super Quiz! L21-25 | 12/4: Final Review | -- |
+| 16 | 26 Tridiagonal Form, 27 Rayleigh Quotient, Inverse Iteration, 28/9 QR Algorithm with/out Shifts, 31 Computing the SVD| 12/2: Super Quiz! L14-25 (as covered) | 12/4: Final Review | -- |
 
 FINAL EXAM: 12/10 1:30 - 4:00pm, ECEE 283 (normal classroom)
 
