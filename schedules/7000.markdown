@@ -1,5 +1,6 @@
 | Week | Date | Quote | Reading (optional) | Notes |
 | --- | --- | --- | --- | --- |
+| 1  | 1/14 | "Easy reading is damn hard writing." — Nathaniel Hawthorne | [Why writing by hand beats typing for thinking and learning](../6110-papers/handwriting-NPR.pdf)  | Plan due next week |
 | 2 | 1/21 | | | |
 | 3 | 1/28 | | | |
 | 4 | 2/4 | | | |
