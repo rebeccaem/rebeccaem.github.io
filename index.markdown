@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<img src="photos/rem-chicago.jpeg" style="width:33%; height: auto">
+<img src="photos/rem-chicago.jpeg" style="width:50%; height: auto">
 
 Assistant Professor  
 Dept. of Computer Science  
@@ -12,8 +12,9 @@ University of Colorado Boulder
 ECOT 820  
 rebeccam@colorado.edu  
 
-*If you would like to talk to me about research opportunities, grading or TA positions, reference letters, or just about anything else, please come to my office hours or drop by my office anytime.  
-Office hours for Fall 2025 are:  Tuesday 3:30 - 4:30.*
+*If you would like to talk to me about research opportunities, grading or TA positions, reference letters, or just about anything else, please come to my office hours or drop by my office anytime. I am usually free Monday - Thursday 9:30 - 12:00.*  
+
+**Office hours for Spring 2026 are:  Wednesday 12:00 - 12:50.**
 
 ## Research interests
 Dynamical systems  
