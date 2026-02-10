@@ -10,7 +10,7 @@ PhD, Computational Science, Engineering, & Mathematics, UT Austin, 2016
 MS, Computational & Applied Mathematics, UT Austin, 2012  
 BA, Physics, Scripps College, 2008  
 
-![Rebecca, CU Boulder, January 2026](photos/Rebecca-CUB.jpg)
+![Rebecca, CU Boulder, January 2026](photos/Rebecca_CUB.jpg)
 Rebecca, CU Boulder, January 2026
 
 ### [Curriculum vita](vita.pdf) 
