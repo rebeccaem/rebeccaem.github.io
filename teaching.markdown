@@ -15,3 +15,7 @@ CSCI 6110: [Graduate Writing Workshop](/syllabi/6110.pdf)  \  [Fall 2025 Schedul
 CSCI 7000: [Graduate Writing Workshop, Part 2](syllabi/7000.pdf)  \  [Spring 2026 Schedule](/schedules/7000.markdown)  
 CSCI 6166: [Validation and Uncertainty Quantification for Computational Models](/syllabi/6166.pdf)  
 CSCI 4830/7000: [UPSCALE Reading & Research Group](/syllabi/upscale.pdf) (**U**ncertainty, **P**robability, **S**cientific **C**omputing **A**nd **LE**arning)  
+
+
+![Classroom, November 2025](photos/class.jpeg)  
+QR factorizations, November 2025  
