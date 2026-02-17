@@ -4,13 +4,13 @@
 
 layout: home
 ---
-<img src="photos/rem-chicago.jpeg" style="width:50%; height: auto">
-
 Assistant Professor  
 Dept. of Computer Science  
 University of Colorado Boulder  
 ECOT 820  
-rebeccam@colorado.edu  
+rebeccam@colorado.edu 
+![Rebecca in Chicago, July 2025](photos/rem-chicago.jpeg)
+Chicago, July 2025
 
 *If you would like to talk to me about research opportunities, grading or TA positions, reference letters, or just about anything else, please come to my office hours or drop by my office anytime. I am usually free Monday - Thursday 9:30 - 12:00.*  
 
