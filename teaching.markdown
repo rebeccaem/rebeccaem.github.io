@@ -18,4 +18,4 @@ CSCI 4830/7000: [UPSCALE Reading & Research Group](/syllabi/upscale.pdf) (**U**n
 
 
 ![Classroom, November 2025](photos/class.jpg)  
-QR factorizations & Legendre polynomials, November 2025  
+QR factorization & Legendre polynomials, November 2025  
