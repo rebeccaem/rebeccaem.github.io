@@ -1,3 +1,9 @@
+---
+layout: page
+title: FAQs
+permalink: /faqs/
+---
+
 ## Prospective students
 
 ### I am looking for MS programs. Do you have research positions available?
