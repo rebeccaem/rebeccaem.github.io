@@ -2,10 +2,10 @@
 | --- | --- | --- | --- | --- |
 | 1  | 1/14 | "Easy reading is damn hard writing." — Nathaniel Hawthorne | [Why writing by hand beats typing for thinking and learning](../6110-papers/handwriting-NPR.pdf)  | Plan due next week |
 | 2 | 1/21 | "There are innumerable ways to write badly.  The usual way is making sentences that don't say what you think they do.  Which can the reader possibly believe? Your sentences or you?" - Verlyn Klinkenborg, *Several short sentences about writing*  | [The Art of the Impersonal Essay](../6110-papers/art-essay-z-smith.pdf) by Zadie Smith |  |
-| 3 | 1/28 | | | |
-| 4 | 2/4 | | | |
-| 5 | 2/11 | | | |
-| 6 | 2/18 | | | |
+| 3 | 1/28 | -- | -- | |
+| 4 | 2/4 | -- | -- | |
+| 5 | 2/11 | "Reasons Why Most New Faculty Struggled with Writing in My Studies: 1. They did not learn how to write with fluency and constancy in graduate school. ... 2. They too often learned to work in isolation." - Robert Boice, *Advice for New Faculty Members* | -- | |
+| 6 | 2/18 | "It's clear to me now that nothing can save us from the crisis of beginning." - Elizabeth Cooperman | [Stylish Academic Writing](../6110-papers/sword-ch-7.pdf) by Helen Sword | |
 | 7 | 2/25 | | | |
 | 8 | 3/4 | | | |
 | 9 | 3/11 | | | |
