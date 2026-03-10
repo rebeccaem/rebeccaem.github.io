@@ -9,7 +9,7 @@ permalink: /teaching/
   
 CSCI 2820: [Linear Algebra with CS Applications](/syllabi/2820.pdf)  
 CSCI 4802/5802: [Data Science Team](/syllabi/ds.pdf)  
-CSCI 5646: [Numerical Linear Algebra](/syllabi/nla.pdf)  \  [Fall 2025 Schedule](/schedules/5646.markdown)  
+CSCI 5646: [Numerical Linear Algebra](/syllabi/5646.pdf)  \  [Fall 2025 Schedule](/schedules/5646.markdown)  
 CSCI 5822: [Probabilistic and Causal Modeling in Computer Science](/syllabi/5822.pdf)  
 CSCI 6110: [Graduate Writing Workshop](/syllabi/6110.pdf)  \  [Fall 2025 Schedule](/schedules/6110.markdown)  
 CSCI 7000: [Graduate Writing Workshop, Part 2](syllabi/7000.pdf)  \  [Spring 2026 Schedule](/schedules/7000.markdown)  
