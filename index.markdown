@@ -23,8 +23,7 @@ Probabilistic graphical models
 Calibration, validation, and uncertainty quantification
 
 ## Research group  
-Nate Holland (CS PhD)  
-Noah Peterson (CS PhD)  
+Nate Holland (CS MS)  
 Ujas Shah (CS PhD)  
 Jack Shaw (CS + Geology Postdoc)  
 
