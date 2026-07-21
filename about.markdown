@@ -37,7 +37,7 @@ CU Boulder, January 2026
 Rebecca Morrison is an assistant professor in the Computer Science Department at CU Boulder. Before joining CU, she was a postdoc in the AeroAstro Department at MIT, received her PhD in Computational Science, Engineering, and Mathematics at UT Austin, and completed a BA in Physics at Scripps College. Rebecca’s research identifies and exploits sparse structures (sparse graphical models or sparse dynamics) in nonlinear, interacting, multi-physics, and/or non-Gaussian systems. She also works on a variety of topics within the fields of calibration, validation, and uncertainty quantification, and has experience with applications including combustion, epidemiology, climate, satellites and reentry vehicles, and space weather. Rebecca currently serves as Chair of the SIAM Conference on the Mathematics of Data Science 2026; contributes to computational libraries for Bayesian methods, uncertainty quantification, and epidemiology; and received the Johnson & Johnson Women in STEM2D Award in Mathematics.
 
 ### At the farm and the barn
-![Archie & Max at Cure Farms, October 2025](photos/cure-farm.jpg)
+![Archie & Max at Cure Farms, October 2025](photos/cure-farm.jpeg)
 Archie & Max at Cure Farm, October 2025  
 
 ![Rebecca & Silver at Blue Cloud Farms, November 2023](photos/silver.jpeg)
