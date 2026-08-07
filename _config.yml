@@ -29,6 +29,7 @@ github_username:  rebeccaem
 
 header_pages:
  - about.markdown
+ - research.markdown
  - publications.markdown
  - teaching.markdown
  - faq.markdown

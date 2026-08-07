@@ -23,9 +23,11 @@ Probabilistic graphical models
 Calibration, validation, and uncertainty quantification
 
 ## Research group  
-Nate Holland (CS MS)  
+Robert Dumitrescu (CS PhD)  
+Nate Holland (CS PhD)  
 Ujas Shah (CS PhD)  
 Jack Shaw (CS + Geology Postdoc)  
+Josiah Shehata, CS Capstond: Senior Thesis, 2026 -- 2027  
 
 ## Previous group members
 
