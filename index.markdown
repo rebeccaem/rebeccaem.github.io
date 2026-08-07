@@ -8,14 +8,14 @@ Assistant Professor
 Dept. of Computer Science, ECOT 820  
 University of Colorado Boulder  
 rebeccam@colorado.edu  
-![Rebecca in Chicago, July 2025](photos/rem-chicago.jpeg)
-Chicago, July 2025
+![Rebecca, CU Boulder, January 2026](photos/Rebecca_CUB.jpg)
+CU Boulder, January 2026
 
 <!-- <img src="photos/rem-chicago.jpeg" style="width:50%; height: auto"> -->
 
-*If you would like to talk to me about research opportunities, grading or TA positions, reference letters, or just about anything else, please come to my office hours or drop by my office anytime. I am usually free Monday - Thursday 9:30 - 12:00.*  
+*If you would like to talk to me about research opportunities, grading or TA positions, reference letters, or just about anything else, please come to my office hours or drop by my office anytime. I am usually free Monday - Thursday 9:30 - 11:00.*  
 
-**Office hours for Spring 2026 are:  Wednesday 12:00 - 12:50.**
+**Office hours for Fall 2026 are:  Wednesday 10:00 - 11:00.**
 
 ## Research interests
 Dynamical systems  

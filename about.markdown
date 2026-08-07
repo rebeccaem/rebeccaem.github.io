@@ -10,8 +10,8 @@ PhD, Computational Science, Engineering, & Mathematics, UT Austin, 2016
 MS, Computational & Applied Mathematics, UT Austin, 2012  
 BA, Physics, Scripps College, 2008  
 
-![Rebecca, CU Boulder, January 2026](photos/Rebecca_CUB.jpg)
-CU Boulder, January 2026
+![Rebecca in Chicago, July 2025](photos/rem-chicago.jpeg)
+Chicago, July 2025
 
 ### [Curriculum vita](vita.pdf) 
 
@@ -38,12 +38,4 @@ CU Boulder, January 2026
 ### Bio
 Rebecca Morrison is an assistant professor in the Computer Science Department at CU Boulder. Before joining CU, she was a postdoc in the AeroAstro Department at MIT, received her PhD in Computational Science, Engineering, and Mathematics at UT Austin, and completed a BA in Physics at Scripps College. Rebecca’s research identifies and exploits sparse structures (sparse graphical models or sparse dynamics) in nonlinear, interacting, multi-physics, and/or non-Gaussian systems. She also works on a variety of topics within the fields of calibration, validation, and uncertainty quantification, and has experience with applications including combustion, epidemiology, climate, satellites and reentry vehicles, and space weather. Rebecca currently serves as Co-Chair of the SIAM Conference on the Mathematics of Data Science 2026 and as SIAM Liaison Chair to the Joint Mathematics Meetings; contributes to computational libraries for Bayesian methods, uncertainty quantification, and epidemiology; and received the Johnson & Johnson Women in STEM2D Award in Mathematics. In 2025, she received CU Boulder's Exceptional Graduate Faculty Mentor Award.
 
-### At the farm and the barn
-![Archie & Max at Cure Farms, October 2025](photos/cure-farm.jpeg)
-Archie & Max at Cure Farm, October 2025  
-
-![Rebecca & Silver at Blue Cloud Farms, November 2023](photos/silver.jpeg)
-Rebecca & Silver at Blue Cloud Farms, November 2023  
-
-![Rebecca & Max at Blue Cloud Farms, July 2022](photos/R-and-M-barn.jpeg)
-Rebecca & Max at Blue Cloud Farms, July 2022
+Rebecca lives in Boulder, CO with her two sons and spends time hiking, horseback riding, playing tennis, and learning Spanish and Croatian.
