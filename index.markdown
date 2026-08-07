@@ -27,7 +27,7 @@ Robert Dumitrescu (CS PhD)
 Nate Holland (CS PhD)  
 Ujas Shah (CS PhD)  
 Jack Shaw (CS + Geology Postdoc)  
-Josiah Shehata, CS Capstond: Senior Thesis, 2026 -- 2027  
+Josiah Shehata (CS Senior Thesis)  
 
 ## Previous group members
 
