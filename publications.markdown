@@ -65,7 +65,7 @@ permalink: /publications/
 <ol>
 <li value="9">R. Bandy*, R. Washington**, <strong>R. Morrison</strong>, and T. Portone. Isolating and quantifying uncertainties in the vibration isolation round-robin challenge. In <em>Model Validation and Uncertainty Quantification</em>, Vol. 3, pages 71&ndash;85. River Publishers, 2025.</li>
 
-<li value="8">S. Liaw***, <strong>R. Morrison</strong>, Y. Marzouk, and R. Baptista. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34059">Learning local neighborhoods of non-Gaussian graphical models: A measure transport approach</a>. In <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>, Vol. 39, No. 18, 2025. (Acceptance rate: 23%; journal equivalent) Extended version: <a href="https://arxiv.org/abs/2503.13899">arXiv</a></li>
+<li value="8">S. Liaw***, <strong>R. Morrison</strong>, Y. Marzouk, and R. Baptista. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34059">Learning local neighborhoods of non-Gaussian graphical models: A measure transport approach</a>. In <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>, Vol. 39, No. 18, 2025. (Acceptance rate: 23%) Extended version: <a href="https://arxiv.org/abs/2503.13899">arXiv</a></li>
 
 <li value="7">T. Price-Broncucia*, S. Amorese***, R. Baptista, and <strong>R. Morrison</strong>. <a href="https://www.scipedia.com/public/Baptista_et_al_2024a">A probabilistic graphical model approach to interpret, verify, and decouple multi-physics systems</a>. In <em>16th World Congress on Computational Mechanics (WCCM)</em>, 2024.</li>
 
@@ -77,7 +77,7 @@ permalink: /publications/
 
 <li value="3">R. Bandy* and <strong>R. Morrison</strong>. <a href="https://www.springerprofessional.de/en/quantifying-model-form-uncertainty-in-spring-mass-damper-systems/26137730">Quantifying model form uncertainty in spring-mass-damper systems</a>. In <em>Model Validation and Uncertainty Quantification</em>, Vol. 3 (Proceedings of the 41st IMAC), pages 9&ndash;19. Springer Nature Switzerland, 2023. <strong>Best Paper Award</strong></li>
 
-<li value="2"><strong>R. Morrison</strong>, R. Baptista, and Y. Marzouk. <a href="https://papers.nips.cc/paper_files/paper/2017/hash/ea8fcd92d59581717e06eb187f10666d-Abstract.html">Beyond normality: Learning sparse probabilistic models in the non-Gaussian setting</a>. <em>Advances in Neural Information Processing Systems 30 (NeurIPS 2017)</em>, 11 pages. (Acceptance rate: 21%; journal equivalent)</li>
+<li value="2"><strong>R. Morrison</strong>, R. Baptista, and Y. Marzouk. <a href="https://papers.nips.cc/paper_files/paper/2017/hash/ea8fcd92d59581717e06eb187f10666d-Abstract.html">Beyond normality: Learning sparse probabilistic models in the non-Gaussian setting</a>. <em>Advances in Neural Information Processing Systems 30 (NeurIPS 2017)</em>, 11 pages. (Acceptance rate: 21%)</li>
 
 <li value="1"><strong>R. Morrison</strong>, C. Bryant, G. Terejanu, K. Miki, and S. Prudhomme. <a href="https://www.iaeng.org/publication/WCECS2011/WCECS2011_pp1038-1043.pdf">Optimal data split methodology for model validation</a>. In <em>Proceedings of the World Congress on Engineering and Computer Science 2011</em>, pages 1038&ndash;1043. (Acceptance rate: 53%) <strong>Best Student Paper Award</strong></li>
 </ol>
