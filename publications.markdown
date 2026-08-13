@@ -63,7 +63,7 @@ permalink: /publications/
 ### Peer-Reviewed Conference Papers
 
 <ol>
-<li value="9">R. Bandy, R. Washington**, <strong>R. Morrison</strong>, and T. Portone. Isolating and quantifying uncertainties in the vibration isolation round-robin challenge. In <em>Model Validation and Uncertainty Quantification</em>, Vol. 3, pages 71&ndash;85. River Publishers, 2025.</li>
+<li value="9">R. Bandy, R. Washington, <strong>R. Morrison</strong>, and T. Portone. Isolating and quantifying uncertainties in the vibration isolation round-robin challenge. In <em>Model Validation and Uncertainty Quantification</em>, Vol. 3, pages 71&ndash;85. River Publishers, 2025.</li>
 
 <li value="8">S. Liaw, <strong>R. Morrison</strong>, Y. Marzouk, and R. Baptista. <a href="https://ojs.aaai.org/index.php/AAAI/article/view/34059">Learning local neighborhoods of non-Gaussian graphical models: A measure transport approach</a>. In <em>Proceedings of the AAAI Conference on Artificial Intelligence</em>, Vol. 39, No. 18, 2025. (Acceptance rate: 23%) Extended version: <a href="https://arxiv.org/abs/2503.13899">arXiv</a></li>
 
