@@ -1,6 +1,6 @@
-| Week | Lecture | Monday | Wednesday | Friday | Assignment (ungraded) |
+| Week | Lecture | Monday | Wednesday | Friday |
 | --- | --- | --- | --- | --- | --- |
-| 1  | 1 Matrix-vector multiplication | -- | -- | 8/21: Intro + Q0 | TBD |
+| 1  | 1 Matrix-vector multiplication | -- | -- | 8/21: Intro + Q0 |
 
 FINAL EXAM: TBD
 
