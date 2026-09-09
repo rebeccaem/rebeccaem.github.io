@@ -2,4 +2,4 @@
 | --- | --- | --- | --- | --- |
 | 1  | 8/26 | Intro, C&S Exercise 1 | [Pinker essay](../6110-papers/pinker.pdf), C&S p1--12 | Join slack, bring 1-2 sentences about what you want to work on |
 | 2 | 9/2 | Group ex: describe research | [Lamott essay](../6110-papers/lamott.pdf), C&S p12--24 | Bring hard-copy of draft to class next week |
-| 3 | 9/9 | Watch 2 ABT videos ([TEDMED](https://www.youtube.com/watch?v=ERB7ITvabA4) and first half of [AAAS](https://www.youtube.com/watch?v=ungl-jozHLA) | [Greene essay](../6110-papers/greene.pdf), C&S p24--36 | Work on draft, edit with C&S and ABT in mind |
+| 3 | 9/9 | Watch 2 ABT videos ([TEDMED](https://www.youtube.com/watch?v=ERB7ITvabA4) and first half of [AAAS](https://www.youtube.com/watch?v=ungl-jozHLA)) | [Greene essay](../6110-papers/greene.pdf), C&S p24--36 | Work on draft, edit with C&S and ABT in mind |
