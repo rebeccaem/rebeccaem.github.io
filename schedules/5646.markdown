@@ -1,7 +1,10 @@
 | Week | Lecture | Monday | Wednesday | Friday |
 | --- | --- | --- | --- | --- | --- |
-| 1  | 1 Matrix-vector multiplication | -- | -- | 8/21: Intro + Q0 |
+| 1  | 1 Matrix-vector multiplication | -- | -- | Intro + Q0 |
+| 2  | 2 Orthogonal vectors and matrices |lecture | review L1 | Q1 |
+| 3  | 3 Norms | lecture | review L2 | Q2 |
+| 4  | 4 The SVD | no class - Labor Day | lecture | Q3 |
 
 FINAL EXAM: TBD
 
-Q = quiz, R = review
+Q = quiz
