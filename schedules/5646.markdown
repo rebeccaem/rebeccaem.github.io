@@ -3,7 +3,9 @@
 | 1  | 1 Matrix-vector multiplication | -- | -- | Intro + Q0 |
 | 2  | 2 Orthogonal vectors and matrices |lecture | review L1 | Q1 |
 | 3  | 3 Norms | lecture | review L2 | Q2 |
-| 4  | 4 The SVD | no class - Labor Day | lecture | Q3 |
+| 4  | 4 The SVD | no class - Labor Day | lecture + review L3 | Q3 |
+| 5  | 5 More on the SVD | lecture | review L4 | Q4 |
+| 6  | 6 Projectors & 7 The QR Factorization | lecture 6 | lecture 7, review L5 | Q5 |
 
 FINAL EXAM: TBD
 
