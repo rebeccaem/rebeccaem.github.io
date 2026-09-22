@@ -10,7 +10,7 @@ permalink: /publications/
 
 <ol>
 
-<li value="15">T. Price-Broncucia and <strong>R. Morrison</strong>. <a href="https://epubs.siam.org/doi/10.1137/25M1757290">Ultra-Fast unscented Kalman inversion for the calibration of expensive chaotic models.</a> <em>SIAM Journal on Scientific Computing</em>. 48(5):B776&ndash;B798, 2026. </li>
+<li value="15">T. Price-Broncucia and <strong>R. Morrison</strong>. <a href="https://epubs.siam.org/doi/10.1137/25M1757290">Ultra-Fast unscented Kalman inversion for the calibration of expensive reduced chaotic models.</a> <em>SIAM Journal on Scientific Computing</em>. 48(5):B776&ndash;B798, 2026. </li>
 
 <li value="14"><strong>R. Morrison</strong> and E. Basor. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0047259X25000843?via%3Dihub">Exact mean and covariance formulas after diagonal transformations of a multivariate normal</a>. <em>Journal of Multivariate Analysis</em>, 105489, 2025.</li>
 
