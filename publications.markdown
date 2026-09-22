@@ -22,7 +22,7 @@ permalink: /publications/
 
 <li value="10">R. Baptista†, <strong>R. Morrison</strong>†, O. Zahm, and Y. Marzouk. <a href="https://www.jmlr.org/papers/v25/21-0022.html">Learning non-Gaussian graphical models via Hessian scores and triangular transport</a>. <em>Journal of Machine Learning Research</em> 25(85):1&ndash;46, 2024.</li>
 
-<li value="9">R. Bandy and <strong>R. Morrison</strong>. <a href="https://pubs.aip.org/aip/cha/article/34/1/013116/2933697/Stochastic-model-corrections-for-reduced-Lotka">Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions</a>. <em>Chaos: An Interdisciplinary Journal of Nonlinear Science</em> 34(1):013116, 2024.</li>
+<li value="9">R. Bandy and <strong>R. Morrison</strong>. <a href="https://pubs.aip.org/aip/cha/article/34/1/013116/2933697/Stochastic-model-corrections-for-reduced-Lotka">Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, commensal, competitive, and predatory interactions</a>. <em>Chaos: An Interdisciplinary Journal of Nonlinear Science</em> 34(1):013116, 2024.</li>
 
 <li value="8"><strong>R. Morrison</strong>, R. Baptista, and E. Basor. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0047259X22000252">Diagonal nonlinear transformations preserve structure in covariance and precision matrices</a>. <em>Journal of Multivariate Analysis</em> 190:104983, 2022.</li>
 
