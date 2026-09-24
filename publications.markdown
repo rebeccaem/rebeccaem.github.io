@@ -9,6 +9,9 @@ permalink: /publications/
 ### Journal Articles (Peer-Reviewed)
 
 <ol>
+
+<li value="15">T. Price-Broncucia and <strong>R. Morrison</strong>. <a href="https://epubs.siam.org/doi/10.1137/25M1757290">Ultra-Fast unscented Kalman inversion for the calibration of expensive reduced chaotic models.</a> <em>SIAM Journal on Scientific Computing</em>. 48(5):B776&ndash;B798, 2026. </li>
+
 <li value="14"><strong>R. Morrison</strong> and E. Basor. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0047259X25000843?via%3Dihub">Exact mean and covariance formulas after diagonal transformations of a multivariate normal</a>. <em>Journal of Multivariate Analysis</em>, 105489, 2025.</li>
 
 <li value="13">T. Price-Broncucia, A. Baker, D. Hammerling, M. Duda, and <strong>R. Morrison</strong>. <a href="https://gmd.copernicus.org/articles/18/2349/2025/">The Ensemble Consistency Test: From CESM to MPAS and Beyond</a>. <em>Geoscientific Model Development</em>, 18:2349&ndash;2372, 2025.</li>
@@ -19,7 +22,7 @@ permalink: /publications/
 
 <li value="10">R. Baptista†, <strong>R. Morrison</strong>†, O. Zahm, and Y. Marzouk. <a href="https://www.jmlr.org/papers/v25/21-0022.html">Learning non-Gaussian graphical models via Hessian scores and triangular transport</a>. <em>Journal of Machine Learning Research</em> 25(85):1&ndash;46, 2024.</li>
 
-<li value="9">R. Bandy and <strong>R. Morrison</strong>. <a href="https://pubs.aip.org/aip/cha/article/34/1/013116/2933697/Stochastic-model-corrections-for-reduced-Lotka">Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, competitive, and predatory interactions</a>. <em>Chaos: An Interdisciplinary Journal of Nonlinear Science</em> 34(1):013116, 2024.</li>
+<li value="9">R. Bandy and <strong>R. Morrison</strong>. <a href="https://pubs.aip.org/aip/cha/article/34/1/013116/2933697/Stochastic-model-corrections-for-reduced-Lotka">Stochastic model corrections for reduced Lotka-Volterra models exhibiting mutual, commensal, competitive, and predatory interactions</a>. <em>Chaos: An Interdisciplinary Journal of Nonlinear Science</em> 34(1):013116, 2024.</li>
 
 <li value="8"><strong>R. Morrison</strong>, R. Baptista, and E. Basor. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0047259X22000252">Diagonal nonlinear transformations preserve structure in covariance and precision matrices</a>. <em>Journal of Multivariate Analysis</em> 190:104983, 2022.</li>
 
@@ -41,7 +44,7 @@ permalink: /publications/
 ### Journal Articles &mdash; Accepted
 
 <ol>
-<li value="1">T. Price-Broncucia and <strong>R. Morrison</strong>. Ultra-Fast unscented Kalman inversion for the calibration of expensive chaotic models. <em>SIAM Journal on Scientific Computing</em>. (Accepted)</li>
+<li value="1"> -- </li>
 </ol>
 
 ### Journal Articles &mdash; In Review
